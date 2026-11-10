@@ -1,0 +1,45 @@
+{
+  "bits": 4,
+  "detector_caches": "YOLOX Nano fold caches (PPE_VARIANT unset)",
+  "cleaning": {
+    "source_photos": 700,
+    "source_dropped_duplicate_in_another_fold": 44,
+    "source_kept": 656,
+    "source_kept_by_fold": [
+      129,
+      138,
+      123,
+      141,
+      125
+    ],
+    "source_video_frames_kept": 270,
+    "chv_dropped_vs_source": 19,
+    "chv_kept": 1311,
+    "hard_hat_workers_dropped_vs_source": 30,
+    "hard_hat_workers_dropped_vs_chv": 76,
+    "hard_hat_workers_kept": 6957,
+    "shwd_dropped_vs_source": 6,
+    "shwd_dropped_vs_chv": 419,
+    "shwd_dropped_vs_hard_hat_workers": 83,
+    "shwd_kept": 2733,
+    "sh17_dropped_vs_source": 0,
+    "sh17_dropped_vs_chv": 3,
+    "sh17_dropped_vs_hard_hat_workers": 0,
+    "sh17_dropped_vs_shwd": 4,
+    "sh17_kept": 8092
+  },
+  "pairs_per_file": {
+    "css_v30_vs_css_v30.csv": 64,
+    "css_v30_vs_chv.csv": 19,
+    "css_v30_vs_hard_hat_workers.csv": 30,
+    "chv_vs_hard_hat_workers.csv": 79,
+    "css_v30_vs_shwd.csv": 6,
+    "chv_vs_shwd.csv": 427,
+    "hard_hat_workers_vs_shwd.csv": 87,
+    "css_v30_vs_sh17.csv": 0,
+    "chv_vs_sh17.csv": 3,
+    "hard_hat_workers_vs_sh17.csv": 0,
+    "shwd_vs_sh17.csv": 6
+  },
+  "equals_experiments_cv_json_cleaning_block": true
+}

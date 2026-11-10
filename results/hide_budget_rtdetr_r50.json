@@ -1,0 +1,81 @@
+{
+  "variant": "rtdetr_r50",
+  "target": "0.1",
+  "t_high": 0.62,
+  "datasets": {
+    "hard_hat_workers": {
+      "models": [
+        {
+          "t_low": 0.08,
+          "share_routed": 0.33311468527798915,
+          "routed_per_image": 1.82492453643812,
+          "miss_rate": 0.0813970697054906,
+          "miss_rate_per_image": 0.09857710838409478,
+          "false_report_rate": 0.08132352362591966
+        },
+        {
+          "t_low": 0.12,
+          "share_routed": 0.2543007606787595,
+          "routed_per_image": 1.2493891044990657,
+          "miss_rate": 0.08435696314932663,
+          "miss_rate_per_image": 0.09831204999878296,
+          "false_report_rate": 0.07874293785310738
+        },
+        {
+          "t_low": 0.06,
+          "share_routed": 0.39528534802013104,
+          "routed_per_image": 2.393416702601696,
+          "miss_rate": 0.07947313896699719,
+          "miss_rate_per_image": 0.09763292694390689,
+          "false_report_rate": 0.0923330585325639
+        },
+        {
+          "t_low": 0.09,
+          "share_routed": 0.3144445915530253,
+          "routed_per_image": 1.7069138996693978,
+          "miss_rate": 0.07888116027822999,
+          "miss_rate_per_image": 0.0950843869454784,
+          "false_report_rate": 0.08690614136732333
+        },
+        {
+          "t_low": 0.1,
+          "share_routed": 0.2858242181058649,
+          "routed_per_image": 1.4948972258157252,
+          "miss_rate": 0.08480094716590203,
+          "miss_rate_per_image": 0.09820270144652782,
+          "false_report_rate": 0.08939428923266379
+        }
+      ],
+      "t_low": {
+        "mean": 0.09,
+        "min": 0.06,
+        "max": 0.12
+      },
+      "share_routed": {
+        "mean": 0.3165939207271539,
+        "min": 0.2543007606787595,
+        "max": 0.39528534802013104
+      },
+      "routed_per_image": {
+        "mean": 1.733908293804801,
+        "min": 1.2493891044990657,
+        "max": 2.393416702601696
+      },
+      "miss_rate": {
+        "mean": 0.08178185585318928,
+        "min": 0.07888116027822999,
+        "max": 0.08480094716590203
+      },
+      "miss_rate_per_image": {
+        "mean": 0.09756183474375817,
+        "min": 0.0950843869454784,
+        "max": 0.09857710838409478
+      },
+      "false_report_rate": {
+        "mean": 0.08573999012231562,
+        "min": 0.07874293785310738,
+        "max": 0.0923330585325639
+      }
+    }
+  }
+}

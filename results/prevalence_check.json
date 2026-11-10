@@ -1,0 +1,752 @@
+{
+  "post_hoc": true,
+  "rows": [
+    {
+      "size": "nano",
+      "dataset": "source",
+      "class": "helmet",
+      "prevalence": 0.5775109170305677,
+      "false_report_rate": 0.06284277692141188,
+      "n_labels": 529
+    },
+    {
+      "size": "nano",
+      "dataset": "source",
+      "class": "head",
+      "prevalence": 0.42248908296943233,
+      "false_report_rate": 0.07547336985976905,
+      "n_labels": 387
+    },
+    {
+      "size": "nano",
+      "dataset": "source",
+      "class": "vest",
+      "prevalence": 0.16225304749894914,
+      "false_report_rate": 0.08619054229285325,
+      "n_labels": 386
+    },
+    {
+      "size": "nano",
+      "dataset": "source",
+      "class": "person",
+      "prevalence": 0.4527112232030265,
+      "false_report_rate": 0.07082647313103052,
+      "n_labels": 1077
+    },
+    {
+      "size": "nano",
+      "dataset": "chv",
+      "class": "helmet",
+      "prevalence": 1.0,
+      "false_report_rate": 0.0443270846450892,
+      "n_labels": 3493
+    },
+    {
+      "size": "nano",
+      "dataset": "chv",
+      "class": "vest",
+      "prevalence": 0.1929554210236654,
+      "false_report_rate": 0.1712410970997198,
+      "n_labels": 1753
+    },
+    {
+      "size": "nano",
+      "dataset": "chv",
+      "class": "person",
+      "prevalence": 0.4225646670335718,
+      "false_report_rate": 0.09364873999543487,
+      "n_labels": 3839
+    },
+    {
+      "size": "nano",
+      "dataset": "hard_hat_workers",
+      "class": "helmet",
+      "prevalence": 0.7436354668588989,
+      "false_report_rate": 0.030203985783988634,
+      "n_labels": 19600
+    },
+    {
+      "size": "nano",
+      "dataset": "hard_hat_workers",
+      "class": "head",
+      "prevalence": 0.256364533141101,
+      "false_report_rate": 0.16476190354185252,
+      "n_labels": 6757
+    },
+    {
+      "size": "nano",
+      "dataset": "shwd",
+      "class": "helmet",
+      "prevalence": 0.8489756516142872,
+      "false_report_rate": 0.046577348728744965,
+      "n_labels": 7915
+    },
+    {
+      "size": "nano",
+      "dataset": "shwd",
+      "class": "head",
+      "prevalence": 0.15102434838571274,
+      "false_report_rate": 0.36254059837600744,
+      "n_labels": 1408
+    },
+    {
+      "size": "nano",
+      "dataset": "sh17",
+      "class": "helmet",
+      "prevalence": 0.0752635046113307,
+      "false_report_rate": 0.5302125622576898,
+      "n_labels": 914
+    },
+    {
+      "size": "nano",
+      "dataset": "sh17",
+      "class": "head",
+      "prevalence": 0.9247364953886693,
+      "false_report_rate": 0.06840162532574241,
+      "n_labels": 11230
+    },
+    {
+      "size": "nano",
+      "dataset": "sh17",
+      "class": "vest",
+      "prevalence": 0.019697542533081286,
+      "false_report_rate": 0.5975156715275487,
+      "n_labels": 521
+    },
+    {
+      "size": "nano",
+      "dataset": "sh17",
+      "class": "person",
+      "prevalence": 0.5211720226843101,
+      "false_report_rate": 0.12008757833513042,
+      "n_labels": 13785
+    },
+    {
+      "size": "s",
+      "dataset": "source",
+      "class": "helmet",
+      "prevalence": 0.5775109170305677,
+      "false_report_rate": 0.06645716064808926,
+      "n_labels": 529
+    },
+    {
+      "size": "s",
+      "dataset": "source",
+      "class": "head",
+      "prevalence": 0.42248908296943233,
+      "false_report_rate": 0.09686149979043579,
+      "n_labels": 387
+    },
+    {
+      "size": "s",
+      "dataset": "source",
+      "class": "vest",
+      "prevalence": 0.16225304749894914,
+      "false_report_rate": 0.09446150381134882,
+      "n_labels": 386
+    },
+    {
+      "size": "s",
+      "dataset": "source",
+      "class": "person",
+      "prevalence": 0.4527112232030265,
+      "false_report_rate": 0.06388464580997469,
+      "n_labels": 1077
+    },
+    {
+      "size": "s",
+      "dataset": "chv",
+      "class": "helmet",
+      "prevalence": 1.0,
+      "false_report_rate": 0.04410494159274922,
+      "n_labels": 3493
+    },
+    {
+      "size": "s",
+      "dataset": "chv",
+      "class": "vest",
+      "prevalence": 0.1929554210236654,
+      "false_report_rate": 0.16228101135460185,
+      "n_labels": 1753
+    },
+    {
+      "size": "s",
+      "dataset": "chv",
+      "class": "person",
+      "prevalence": 0.4225646670335718,
+      "false_report_rate": 0.09483465622529721,
+      "n_labels": 3839
+    },
+    {
+      "size": "s",
+      "dataset": "hard_hat_workers",
+      "class": "helmet",
+      "prevalence": 0.7436354668588989,
+      "false_report_rate": 0.025500185968037225,
+      "n_labels": 19600
+    },
+    {
+      "size": "s",
+      "dataset": "hard_hat_workers",
+      "class": "head",
+      "prevalence": 0.256364533141101,
+      "false_report_rate": 0.1303264481292485,
+      "n_labels": 6757
+    },
+    {
+      "size": "s",
+      "dataset": "shwd",
+      "class": "helmet",
+      "prevalence": 0.8489756516142872,
+      "false_report_rate": 0.04668426816103319,
+      "n_labels": 7915
+    },
+    {
+      "size": "s",
+      "dataset": "shwd",
+      "class": "head",
+      "prevalence": 0.15102434838571274,
+      "false_report_rate": 0.2664887784800307,
+      "n_labels": 1408
+    },
+    {
+      "size": "s",
+      "dataset": "sh17",
+      "class": "helmet",
+      "prevalence": 0.0752635046113307,
+      "false_report_rate": 0.5349831963424604,
+      "n_labels": 914
+    },
+    {
+      "size": "s",
+      "dataset": "sh17",
+      "class": "head",
+      "prevalence": 0.9247364953886693,
+      "false_report_rate": 0.06944611501733293,
+      "n_labels": 11230
+    },
+    {
+      "size": "s",
+      "dataset": "sh17",
+      "class": "vest",
+      "prevalence": 0.019697542533081286,
+      "false_report_rate": 0.563367791648267,
+      "n_labels": 521
+    },
+    {
+      "size": "s",
+      "dataset": "sh17",
+      "class": "person",
+      "prevalence": 0.5211720226843101,
+      "false_report_rate": 0.09562596128278592,
+      "n_labels": 13785
+    },
+    {
+      "size": "m",
+      "dataset": "source",
+      "class": "helmet",
+      "prevalence": 0.5775109170305677,
+      "false_report_rate": 0.0740517894503788,
+      "n_labels": 529
+    },
+    {
+      "size": "m",
+      "dataset": "source",
+      "class": "head",
+      "prevalence": 0.42248908296943233,
+      "false_report_rate": 0.09175371952197953,
+      "n_labels": 387
+    },
+    {
+      "size": "m",
+      "dataset": "source",
+      "class": "vest",
+      "prevalence": 0.16225304749894914,
+      "false_report_rate": 0.08821462190378444,
+      "n_labels": 386
+    },
+    {
+      "size": "m",
+      "dataset": "source",
+      "class": "person",
+      "prevalence": 0.4527112232030265,
+      "false_report_rate": 0.06386842482267246,
+      "n_labels": 1077
+    },
+    {
+      "size": "m",
+      "dataset": "chv",
+      "class": "helmet",
+      "prevalence": 1.0,
+      "false_report_rate": 0.050176467858233396,
+      "n_labels": 3493
+    },
+    {
+      "size": "m",
+      "dataset": "chv",
+      "class": "vest",
+      "prevalence": 0.1929554210236654,
+      "false_report_rate": 0.16752158957208452,
+      "n_labels": 1753
+    },
+    {
+      "size": "m",
+      "dataset": "chv",
+      "class": "person",
+      "prevalence": 0.4225646670335718,
+      "false_report_rate": 0.10393256601415198,
+      "n_labels": 3839
+    },
+    {
+      "size": "m",
+      "dataset": "hard_hat_workers",
+      "class": "helmet",
+      "prevalence": 0.7436354668588989,
+      "false_report_rate": 0.031060726722931947,
+      "n_labels": 19600
+    },
+    {
+      "size": "m",
+      "dataset": "hard_hat_workers",
+      "class": "head",
+      "prevalence": 0.256364533141101,
+      "false_report_rate": 0.14751958889240196,
+      "n_labels": 6757
+    },
+    {
+      "size": "m",
+      "dataset": "shwd",
+      "class": "helmet",
+      "prevalence": 0.8489756516142872,
+      "false_report_rate": 0.04985378245386228,
+      "n_labels": 7915
+    },
+    {
+      "size": "m",
+      "dataset": "shwd",
+      "class": "head",
+      "prevalence": 0.15102434838571274,
+      "false_report_rate": 0.28084312288999164,
+      "n_labels": 1408
+    },
+    {
+      "size": "m",
+      "dataset": "sh17",
+      "class": "helmet",
+      "prevalence": 0.0752635046113307,
+      "false_report_rate": 0.540871413348942,
+      "n_labels": 914
+    },
+    {
+      "size": "m",
+      "dataset": "sh17",
+      "class": "head",
+      "prevalence": 0.9247364953886693,
+      "false_report_rate": 0.07429359128710351,
+      "n_labels": 11230
+    },
+    {
+      "size": "m",
+      "dataset": "sh17",
+      "class": "vest",
+      "prevalence": 0.019697542533081286,
+      "false_report_rate": 0.5884008323107203,
+      "n_labels": 521
+    },
+    {
+      "size": "m",
+      "dataset": "sh17",
+      "class": "person",
+      "prevalence": 0.5211720226843101,
+      "false_report_rate": 0.09898423869612995,
+      "n_labels": 13785
+    },
+    {
+      "size": "l",
+      "dataset": "source",
+      "class": "helmet",
+      "prevalence": 0.5775109170305677,
+      "false_report_rate": 0.06327444925905784,
+      "n_labels": 529
+    },
+    {
+      "size": "l",
+      "dataset": "source",
+      "class": "head",
+      "prevalence": 0.42248908296943233,
+      "false_report_rate": 0.09398752538002882,
+      "n_labels": 387
+    },
+    {
+      "size": "l",
+      "dataset": "source",
+      "class": "vest",
+      "prevalence": 0.16225304749894914,
+      "false_report_rate": 0.11631774731183939,
+      "n_labels": 386
+    },
+    {
+      "size": "l",
+      "dataset": "source",
+      "class": "person",
+      "prevalence": 0.4527112232030265,
+      "false_report_rate": 0.06876278498576735,
+      "n_labels": 1077
+    },
+    {
+      "size": "l",
+      "dataset": "chv",
+      "class": "helmet",
+      "prevalence": 1.0,
+      "false_report_rate": 0.05676962738462622,
+      "n_labels": 3493
+    },
+    {
+      "size": "l",
+      "dataset": "chv",
+      "class": "vest",
+      "prevalence": 0.1929554210236654,
+      "false_report_rate": 0.1667141101076309,
+      "n_labels": 1753
+    },
+    {
+      "size": "l",
+      "dataset": "chv",
+      "class": "person",
+      "prevalence": 0.4225646670335718,
+      "false_report_rate": 0.12231150754912394,
+      "n_labels": 3839
+    },
+    {
+      "size": "l",
+      "dataset": "hard_hat_workers",
+      "class": "helmet",
+      "prevalence": 0.7436354668588989,
+      "false_report_rate": 0.03679256264133716,
+      "n_labels": 19600
+    },
+    {
+      "size": "l",
+      "dataset": "hard_hat_workers",
+      "class": "head",
+      "prevalence": 0.256364533141101,
+      "false_report_rate": 0.1287068531208107,
+      "n_labels": 6757
+    },
+    {
+      "size": "l",
+      "dataset": "shwd",
+      "class": "helmet",
+      "prevalence": 0.8489756516142872,
+      "false_report_rate": 0.06070922183974656,
+      "n_labels": 7915
+    },
+    {
+      "size": "l",
+      "dataset": "shwd",
+      "class": "head",
+      "prevalence": 0.15102434838571274,
+      "false_report_rate": 0.2053681682255266,
+      "n_labels": 1408
+    },
+    {
+      "size": "l",
+      "dataset": "sh17",
+      "class": "helmet",
+      "prevalence": 0.0752635046113307,
+      "false_report_rate": 0.5829271565042463,
+      "n_labels": 914
+    },
+    {
+      "size": "l",
+      "dataset": "sh17",
+      "class": "head",
+      "prevalence": 0.9247364953886693,
+      "false_report_rate": 0.06381853672244313,
+      "n_labels": 11230
+    },
+    {
+      "size": "l",
+      "dataset": "sh17",
+      "class": "vest",
+      "prevalence": 0.019697542533081286,
+      "false_report_rate": 0.5590575805420863,
+      "n_labels": 521
+    },
+    {
+      "size": "l",
+      "dataset": "sh17",
+      "class": "person",
+      "prevalence": 0.5211720226843101,
+      "false_report_rate": 0.13783784011450828,
+      "n_labels": 13785
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "source",
+      "class": "helmet",
+      "prevalence": 0.5775109170305677,
+      "false_report_rate": 0.07983535476231053,
+      "n_labels": 529
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "source",
+      "class": "head",
+      "prevalence": 0.42248908296943233,
+      "false_report_rate": 0.09413606052878855,
+      "n_labels": 387
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "source",
+      "class": "vest",
+      "prevalence": 0.16225304749894914,
+      "false_report_rate": 0.12146383694471251,
+      "n_labels": 386
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "source",
+      "class": "person",
+      "prevalence": 0.4527112232030265,
+      "false_report_rate": 0.057391633953890346,
+      "n_labels": 1077
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "chv",
+      "class": "helmet",
+      "prevalence": 1.0,
+      "false_report_rate": 0.04739098253016786,
+      "n_labels": 3493
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "chv",
+      "class": "vest",
+      "prevalence": 0.1929554210236654,
+      "false_report_rate": 0.16910899797363557,
+      "n_labels": 1753
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "chv",
+      "class": "person",
+      "prevalence": 0.4225646670335718,
+      "false_report_rate": 0.09671388747932429,
+      "n_labels": 3839
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "hard_hat_workers",
+      "class": "helmet",
+      "prevalence": 0.7436354668588989,
+      "false_report_rate": 0.040767143748465025,
+      "n_labels": 19600
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "hard_hat_workers",
+      "class": "head",
+      "prevalence": 0.256364533141101,
+      "false_report_rate": 0.04716208161499663,
+      "n_labels": 6757
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "shwd",
+      "class": "helmet",
+      "prevalence": 0.8489756516142872,
+      "false_report_rate": 0.057322643994247795,
+      "n_labels": 7915
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "shwd",
+      "class": "head",
+      "prevalence": 0.15102434838571274,
+      "false_report_rate": 0.0915983963163386,
+      "n_labels": 1408
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "sh17",
+      "class": "helmet",
+      "prevalence": 0.0752635046113307,
+      "false_report_rate": 0.5276606800470083,
+      "n_labels": 914
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "sh17",
+      "class": "head",
+      "prevalence": 0.9247364953886693,
+      "false_report_rate": 0.05396402099312091,
+      "n_labels": 11230
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "sh17",
+      "class": "vest",
+      "prevalence": 0.019697542533081286,
+      "false_report_rate": 0.5885300959087771,
+      "n_labels": 521
+    },
+    {
+      "size": "rtdetr_r18",
+      "dataset": "sh17",
+      "class": "person",
+      "prevalence": 0.5211720226843101,
+      "false_report_rate": 0.09088337900499667,
+      "n_labels": 13785
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "source",
+      "class": "helmet",
+      "prevalence": 0.5775109170305677,
+      "false_report_rate": 0.079227192402621,
+      "n_labels": 529
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "source",
+      "class": "head",
+      "prevalence": 0.42248908296943233,
+      "false_report_rate": 0.08633169551504177,
+      "n_labels": 387
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "source",
+      "class": "vest",
+      "prevalence": 0.16225304749894914,
+      "false_report_rate": 0.08164640513034271,
+      "n_labels": 386
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "source",
+      "class": "person",
+      "prevalence": 0.4527112232030265,
+      "false_report_rate": 0.06912352725124911,
+      "n_labels": 1077
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "chv",
+      "class": "helmet",
+      "prevalence": 1.0,
+      "false_report_rate": 0.0755247662818129,
+      "n_labels": 3493
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "chv",
+      "class": "vest",
+      "prevalence": 0.1929554210236654,
+      "false_report_rate": 0.19946510971070358,
+      "n_labels": 1753
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "chv",
+      "class": "person",
+      "prevalence": 0.4225646670335718,
+      "false_report_rate": 0.1295544226770285,
+      "n_labels": 3839
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "hard_hat_workers",
+      "class": "helmet",
+      "prevalence": 0.7436354668588989,
+      "false_report_rate": 0.06980965616440077,
+      "n_labels": 19600
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "hard_hat_workers",
+      "class": "head",
+      "prevalence": 0.256364533141101,
+      "false_report_rate": 0.10660933593352928,
+      "n_labels": 6757
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "shwd",
+      "class": "helmet",
+      "prevalence": 0.8489756516142872,
+      "false_report_rate": 0.08934143233197282,
+      "n_labels": 7915
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "shwd",
+      "class": "head",
+      "prevalence": 0.15102434838571274,
+      "false_report_rate": 0.13625774246170902,
+      "n_labels": 1408
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "sh17",
+      "class": "helmet",
+      "prevalence": 0.0752635046113307,
+      "false_report_rate": 0.5810838976529223,
+      "n_labels": 914
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "sh17",
+      "class": "head",
+      "prevalence": 0.9247364953886693,
+      "false_report_rate": 0.08350871085689915,
+      "n_labels": 11230
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "sh17",
+      "class": "vest",
+      "prevalence": 0.019697542533081286,
+      "false_report_rate": 0.5327283300545664,
+      "n_labels": 521
+    },
+    {
+      "size": "rtdetr_r50",
+      "dataset": "sh17",
+      "class": "person",
+      "prevalence": 0.5211720226843101,
+      "false_report_rate": 0.09502314799702608,
+      "n_labels": 13785
+    }
+  ],
+  "spearman": {
+    "helmet": {
+      "n_points": 30,
+      "spearman_rho": -0.6181592634963484,
+      "p": 0.00027228507401953316
+    },
+    "head": {
+      "n_points": 24,
+      "spearman_rho": -0.7860375770049217,
+      "p": 5.2998303472006525e-06
+    },
+    "vest": {
+      "n_points": 18,
+      "spearman_rho": -0.47213368521878024,
+      "p": 0.04789230157730854
+    },
+    "person": {
+      "n_points": 18,
+      "spearman_rho": -0.026229649178821122,
+      "p": 0.9177162259562904
+    },
+    "all": {
+      "n_points": 90,
+      "spearman_rho": -0.8392521068896627,
+      "p": 5.214080747648111e-25
+    }
+  }
+}

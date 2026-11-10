@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this package, cite the paper and this record."
+title: "ppe-reporting-profile: evaluation code, lists, settings and saved results for missed violations and human review workload in AI-based PPE monitoring"
+authors:
+  - family-names: Lan
+    given-names: Roy Uzoma
+    affiliation: Western Kentucky University
+    orcid: https://orcid.org/0009-0003-3530-8953
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+repository-code: https://github.com/delubobo/ppe-reporting-profile
+preferred-citation:
+  type: article
+  title: "What Does a Single Error Rate Hide? Missed Violations and Human Review Workload in AI-Based PPE Monitoring on Construction Sites"
+  authors:
+    - family-names: Lan
+      given-names: Roy Uzoma
+  year: 2026
+  notes: submitted for publication; the journal reference will be added on acceptance

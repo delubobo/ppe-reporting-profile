@@ -1,0 +1,234 @@
+{
+ "audit": "SH17 label-omission audit, post hoc; 100 false reports of YOLOX-M fold model 0 under the source rule (50 hard hat, 50 vest), seed 2026",
+ "procedure": "every case classified by eye by the first author from the contact sheets and each photo's annotation classes (confirmed 15 October 2026)",
+ "tally": {
+  "hard hat": {
+   "n": 50,
+   "detector error": {
+    "count": 38,
+    "share": 0.76,
+    "wilson95": [
+     0.6258731612803865,
+     0.8570260866267341
+    ]
+   },
+   "missing label": {
+    "count": 2,
+    "share": 0.04,
+    "wilson95": [
+     0.011038884228173514,
+     0.13460090793615148
+    ]
+   },
+   "class definition": {
+    "count": 0,
+    "share": 0.0,
+    "wilson95": [
+     0.0,
+     0.07134760017861413
+    ]
+   },
+   "ambiguous": {
+    "count": 10,
+    "share": 0.2,
+    "wilson95": [
+     0.11243749964234825,
+     0.33037106046482023
+    ]
+   }
+  },
+  "vest": {
+   "n": 50,
+   "detector error": {
+    "count": 26,
+    "share": 0.52,
+    "wilson95": [
+     0.38511744790185476,
+     0.6520286480910008
+    ]
+   },
+   "missing label": {
+    "count": 12,
+    "share": 0.24,
+    "wilson95": [
+     0.14297391337326584,
+     0.3741268387196135
+    ]
+   },
+   "class definition": {
+    "count": 8,
+    "share": 0.16,
+    "wilson95": [
+     0.08337420635400901,
+     0.2851421617674486
+    ]
+   },
+   "ambiguous": {
+    "count": 4,
+    "share": 0.08,
+    "wilson95": [
+     0.031549513869311444,
+     0.1883824702807244
+    ]
+   }
+  }
+ },
+ "fold0": {
+  "hard hat": {
+   "reports": 1185,
+   "false": 641,
+   "rate": 0.5409282700421941
+  },
+  "vest": {
+   "reports": 621,
+   "false": 375,
+   "rate": 0.6038647342995169
+  }
+ },
+ "five_model_mean_rate_full_source_rule": {
+  "hard hat": 0.5750820426406175,
+  "vest": 0.6208048523160098
+ },
+ "table3_rate_halves_protocol": {
+  "hard hat": 0.540871413348942,
+  "vest": 0.5884008323107203
+ },
+ "corrected": {
+  "hard hat": {
+   "missing label": {
+    "share_of_false_reports_removed": 0.04,
+    "wilson95": [
+     0.011038884228173514,
+     0.13460090793615148
+    ],
+    "fold0_rate": 0.5192911392405063,
+    "fold0_rate_wilson": [
+     0.468118833766183,
+     0.5349570254934521
+    ],
+    "five_model_mean_scaled": 0.5520787609349928,
+    "five_model_mean_scaled_wilson": [
+     0.4976754775634138,
+     0.5687337785502061
+    ],
+    "table3_scaled": 0.5192365568149843,
+    "table3_scaled_wilson": [
+     0.4680696300354649,
+     0.5349007964346544
+    ]
+   },
+   "missing label and class definition": {
+    "share_of_false_reports_removed": 0.04,
+    "wilson95": [
+     0.011038884228173514,
+     0.13460090793615148
+    ],
+    "fold0_rate": 0.5192911392405063,
+    "fold0_rate_wilson": [
+     0.468118833766183,
+     0.5349570254934521
+    ],
+    "five_model_mean_scaled": 0.5520787609349928,
+    "five_model_mean_scaled_wilson": [
+     0.4976754775634138,
+     0.5687337785502061
+    ],
+    "table3_scaled": 0.5192365568149843,
+    "table3_scaled_wilson": [
+     0.4680696300354649,
+     0.5349007964346544
+    ]
+   },
+   "missing label, class definition and ambiguous": {
+    "share_of_false_reports_removed": 0.24000000000000002,
+    "wilson95": [
+     0.14297391337326584,
+     0.3741268387196135
+    ],
+    "fold0_rate": 0.4111054852320675,
+    "fold0_rate_wilson": [
+     0.3385524863972386,
+     0.4635896384200309
+    ],
+    "five_model_mean_scaled": 0.4370623524068693,
+    "five_model_mean_scaled_wilson": [
+     0.3599284160230653,
+     0.4928603124935971
+    ],
+    "table3_scaled": 0.4110622741451959,
+    "table3_scaled_wilson": [
+     0.33851690131889295,
+     0.46354091075071446
+    ]
+   }
+  },
+  "vest": {
+   "missing label": {
+    "share_of_false_reports_removed": 0.24,
+    "wilson95": [
+     0.14297391337326584,
+     0.3741268387196135
+    ],
+    "fold0_rate": 0.45893719806763283,
+    "fold0_rate_wilson": [
+     0.37794273024177927,
+     0.5175278300886076
+    ],
+    "five_model_mean_scaled": 0.47181168776016746,
+    "five_model_mean_scaled_wilson": [
+     0.38854509545722454,
+     0.5320459531392775
+    ],
+    "table3_scaled": 0.44718463255614743,
+    "table3_scaled_wilson": [
+     0.3682642890183211,
+     0.5042748626831698
+    ]
+   },
+   "missing label and class definition": {
+    "share_of_false_reports_removed": 0.4,
+    "wilson95": [
+     0.27608389644428605,
+     0.5381856235914368
+    ],
+    "fold0_rate": 0.36231884057971014,
+    "fold0_rate_wilson": [
+     0.2788734157056541,
+     0.4371474055288128
+    ],
+    "five_model_mean_scaled": 0.3724829113896059,
+    "five_model_mean_scaled_wilson": [
+     0.2866966057437282,
+     0.4494106297570863
+    ],
+    "table3_scaled": 0.35304049938643217,
+    "table3_scaled_wilson": [
+     0.2717319634518548,
+     0.4259528378553157
+    ]
+   },
+   "missing label, class definition and ambiguous": {
+    "share_of_false_reports_removed": 0.48,
+    "wilson95": [
+     0.3479713519089993,
+     0.6148825520981452
+    ],
+    "fold0_rate": 0.3140096618357488,
+    "fold0_rate_wilson": [
+     0.23255884535136154,
+     0.39373710633514536
+    ],
+    "five_model_mean_scaled": 0.3228185232043251,
+    "five_model_mean_scaled_wilson": [
+     0.23908278036902955,
+     0.4047825485839412
+    ],
+    "table3_scaled": 0.30596843280157454,
+    "table3_scaled_wilson": [
+     0.2266034268828318,
+     0.3836541992271785
+    ]
+   }
+  }
+ }
+}

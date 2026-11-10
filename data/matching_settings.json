@@ -1,0 +1,39 @@
+{
+  "ALPHA": 0.1,
+  "BETA": 0.1,
+  "DELTA": 0.1,
+  "ALPHA_PHOTO": 0.2,
+  "T_LOW_DEFAULT": 0.5,
+  "MATCH": {
+    "chv": "iou",
+    "hard_hat_workers": "contain",
+    "shwd": "contain",
+    "sh17": {
+      "head": "contain"
+    },
+    "sh17_note": "classes not listed use IoU"
+  },
+  "iou_threshold": 0.5,
+  "containment": {
+    "min_share_of_detection_inside_ground_truth": 0.7,
+    "min_iou": 0.2,
+    "source": "routing/core.py match_image, rule 'contain'"
+  },
+  "records_score_floor": 0.05,
+  "ap_score_floor": 0.01,
+  "calibrator": "platt",
+  "report_threshold_method": {
+    "aggregate": "cluster",
+    "photo_level": "image"
+  },
+  "fold_rule": "int(md5(original file stem), 16) % 5",
+  "n_folds": 5,
+  "duplicate_exclusion": {
+    "hash": "64-bit difference hash (dhash) of a 9 x 8 grey thumbnail, routing/run_study.py",
+    "max_differing_bits": 4,
+    "order": [
+      "source against itself across folds",
+      "each target in order chv, hard_hat_workers, shwd, then sh17: against the source, then against every previously kept target"
+    ]
+  }
+}

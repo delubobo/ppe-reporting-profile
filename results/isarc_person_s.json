@@ -1,0 +1,920 @@
+{
+  "variant": "s",
+  "person_floor": 0.3,
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+  ],
+  "transfer": {
+    "0.1": {
+      "tau": null,
+      "source": null,
+      "detection_hide_threshold": null,
+      "detection_source_miss": null,
+      "targets": {
+        "hard_hat_workers": null,
+        "shwd": null
+      }
+    },
+    "0.2": {
+      "tau": 0.1,
+      "source": {
+        "miss_rate": 0.25064599483204136,
+        "miss_rate_per_photo": 0.18939409214638572,
+        "helmeted_sent_to_review": 0.0661625708884688,
+        "flagged_persons_per_photo": 0.6448170731707317,
+        "share_of_persons_flagged": 0.5041716328963052
+      },
+      "detection_hide_threshold": null,
+      "detection_source_miss": null,
+      "targets": {
+        "hard_hat_workers": {
+          "miss_rate": {
+            "mean": 0.05845789551576143,
+            "min": 0.047506289773568154,
+            "max": 0.06940950125795471
+          },
+          "miss_rate_per_photo": {
+            "mean": 0.09789016122926157,
+            "min": 0.08725392109317871,
+            "max": 0.10692585353866979
+          },
+          "within_target": 1.0,
+          "helmeted_sent_to_review": {
+            "mean": 0.03602040816326531,
+            "min": 0.030714285714285715,
+            "max": 0.03943877551020408
+          },
+          "flagged_persons_per_photo": {
+            "mean": 1.149604714675866,
+            "min": 1.0872502515452063,
+            "max": 1.1875808538163002
+          }
+        },
+        "shwd": {
+          "miss_rate": {
+            "mean": 0.3455965909090909,
+            "min": 0.328125,
+            "max": 0.3622159090909091
+          },
+          "miss_rate_per_photo": {
+            "mean": 0.30526710403998375,
+            "min": 0.2939395033187824,
+            "max": 0.31795818812550686
+          },
+          "within_target": 0.0,
+          "helmeted_sent_to_review": {
+            "mean": 0.04952621604548326,
+            "min": 0.04560960202147821,
+            "max": 0.05167403663929248
+          },
+          "flagged_persons_per_photo": {
+            "mean": 0.5798024149286498,
+            "min": 0.5437248444932309,
+            "max": 0.601536772777168
+          }
+        }
+      }
+    },
+    "0.3": {
+      "tau": 0.05,
+      "source": {
+        "miss_rate": 0.25839793281653745,
+        "miss_rate_per_photo": 0.19742161508216555,
+        "helmeted_sent_to_review": 0.05671077504725898,
+        "flagged_persons_per_photo": 0.6204268292682927,
+        "share_of_persons_flagged": 0.48510131108462456
+      },
+      "detection_hide_threshold": 0.1,
+      "detection_source_miss": 0.3695090439276486,
+      "targets": {
+        "hard_hat_workers": {
+          "miss_rate": {
+            "mean": 0.06100340387746041,
+            "min": 0.04928222583986976,
+            "max": 0.07088944797987272
+          },
+          "miss_rate_per_photo": {
+            "mean": 0.1006003196478638,
+            "min": 0.0893060804758104,
+            "max": 0.1086980309410993
+          },
+          "within_target": 1.0,
+          "helmeted_sent_to_review": {
+            "mean": 0.03222448979591837,
+            "min": 0.027040816326530614,
+            "max": 0.03494897959183674
+          },
+          "flagged_persons_per_photo": {
+            "mean": 1.1210579272675,
+            "min": 1.0574960471467587,
+            "max": 1.1619951128359924
+          }
+        },
+        "shwd": {
+          "miss_rate": {
+            "mean": 0.3525568181818182,
+            "min": 0.3380681818181818,
+            "max": 0.37073863636363635
+          },
+          "miss_rate_per_photo": {
+            "mean": 0.3108477058082339,
+            "min": 0.3018269971920244,
+            "max": 0.32654123215985725
+          },
+          "within_target": 0.0,
+          "helmeted_sent_to_review": {
+            "mean": 0.0444472520530638,
+            "min": 0.04144030322173089,
+            "max": 0.046620341124447254
+          },
+          "flagged_persons_per_photo": {
+            "mean": 0.5524332235638492,
+            "min": 0.5151847786315404,
+            "max": 0.5733626051957555
+          }
+        }
+      }
+    }
+  },
+  "local": {
+    "source": {
+      "0.1": [
+        {
+          "n": 25,
+          "certified": 0.23,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.15930086808888344,
+          "within_target": 0.0,
+          "miss_rate": 0.2110376225785381,
+          "helmeted_sent_to_review": 0.3853366169789039,
+          "flagged_persons_per_photo": 0.8929511472472955
+        },
+        {
+          "n": 50,
+          "certified": 0.2,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.15291329404722262,
+          "within_target": 0.0,
+          "miss_rate": 0.20299893043313968,
+          "helmeted_sent_to_review": 0.47102839555438086,
+          "flagged_persons_per_photo": 0.9479042904290429
+        },
+        {
+          "n": 100,
+          "certified": 0.162,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.95,
+          "miss_rate_per_photo": 0.14850533438104058,
+          "within_target": 0.0,
+          "miss_rate": 0.19935724883121667,
+          "helmeted_sent_to_review": 0.6855281204957988,
+          "flagged_persons_per_photo": 1.07824851230127
+        },
+        {
+          "n": 200,
+          "certified": 0.008,
+          "detection_rule_certified": 0.0,
+          "tau_median": 1.0,
+          "miss_rate_per_photo": 0.3044973544973545,
+          "within_target": 0.0,
+          "miss_rate": 0.3809920323928945,
+          "helmeted_sent_to_review": 0.8579202783920015,
+          "flagged_persons_per_photo": 1.1184210526315788
+        }
+      ],
+      "0.2": [
+        {
+          "n": 25,
+          "certified": 0.83,
+          "detection_rule_certified": 0.068,
+          "tau_median": 0.2,
+          "miss_rate_per_photo": 0.17525444133659376,
+          "within_target": 0.5566265060240964,
+          "miss_rate": 0.2311298144657944,
+          "helmeted_sent_to_review": 0.19709518224224343,
+          "flagged_persons_per_photo": 0.7312890229698507
+        },
+        {
+          "n": 50,
+          "certified": 0.984,
+          "detection_rule_certified": 0.012,
+          "tau_median": 0.2,
+          "miss_rate_per_photo": 0.17533724804521844,
+          "within_target": 0.6117886178861789,
+          "miss_rate": 0.23150070506604217,
+          "helmeted_sent_to_review": 0.16647141405046903,
+          "flagged_persons_per_photo": 0.6841007271458854
+        },
+        {
+          "n": 100,
+          "certified": 1.0,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.1,
+          "miss_rate_per_photo": 0.1842612288841102,
+          "within_target": 0.574,
+          "miss_rate": 0.2410517412230793,
+          "helmeted_sent_to_review": 0.10302302919402741,
+          "flagged_persons_per_photo": 0.5719496402877698
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.1,
+          "miss_rate_per_photo": 0.200722681022681,
+          "within_target": 0.528,
+          "miss_rate": 0.2614905536208221,
+          "helmeted_sent_to_review": 0.07063692372519588,
+          "flagged_persons_per_photo": 0.3875657894736842
+        }
+      ],
+      "0.3": [
+        {
+          "n": 25,
+          "certified": 0.992,
+          "detection_rule_certified": 0.466,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.19415688860835525,
+          "within_target": 1.0,
+          "miss_rate": 0.25383525710765886,
+          "helmeted_sent_to_review": 0.075902528838345,
+          "flagged_persons_per_photo": 0.6168875568733704
+        },
+        {
+          "n": 50,
+          "certified": 1.0,
+          "detection_rule_certified": 0.504,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.1972346520542949,
+          "within_target": 1.0,
+          "miss_rate": 0.25800631955657743,
+          "helmeted_sent_to_review": 0.059130025206029856,
+          "flagged_persons_per_photo": 0.5743366336633663
+        },
+        {
+          "n": 100,
+          "certified": 1.0,
+          "detection_rule_certified": 0.572,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.19902605304300217,
+          "within_target": 1.0,
+          "miss_rate": 0.25953685347133526,
+          "helmeted_sent_to_review": 0.05875324875458272,
+          "flagged_persons_per_photo": 0.5174388489208634
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 0.82,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.1984466588966589,
+          "within_target": 0.878,
+          "miss_rate": 0.2537252848738803,
+          "helmeted_sent_to_review": 0.06114404420511467,
+          "flagged_persons_per_photo": 0.36945614035087715
+        }
+      ]
+    },
+    "hard_hat_workers": {
+      "0.1": [
+        {
+          "n": 25,
+          "certified": 0.844,
+          "detection_rule_certified": 0.074,
+          "tau_median": 0.55,
+          "miss_rate_per_photo": 0.0744586503774532,
+          "within_target": 0.7985781990521327,
+          "miss_rate": 0.043845492621553225,
+          "helmeted_sent_to_review": 0.24687864615807173,
+          "flagged_persons_per_photo": 1.774095957206499
+        },
+        {
+          "n": 50,
+          "certified": 0.972,
+          "detection_rule_certified": 0.078,
+          "tau_median": 0.4,
+          "miss_rate_per_photo": 0.07960876813414265,
+          "within_target": 0.7921810699588477,
+          "miss_rate": 0.04683760677719834,
+          "helmeted_sent_to_review": 0.17458988102145287,
+          "flagged_persons_per_photo": 1.5600267754845236
+        },
+        {
+          "n": 100,
+          "certified": 0.996,
+          "detection_rule_certified": 0.034,
+          "tau_median": 0.25,
+          "miss_rate_per_photo": 0.08582384045035019,
+          "within_target": 0.7831325301204819,
+          "miss_rate": 0.05041016582172331,
+          "helmeted_sent_to_review": 0.09777860934873152,
+          "flagged_persons_per_photo": 1.3166192552036937
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 0.016,
+          "tau_median": 0.15,
+          "miss_rate_per_photo": 0.09105969493337021,
+          "within_target": 0.724,
+          "miss_rate": 0.0534866426513139,
+          "helmeted_sent_to_review": 0.054539008279901977,
+          "flagged_persons_per_photo": 1.1336652360515023
+        },
+        {
+          "n": 400,
+          "certified": 1.0,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.15,
+          "miss_rate_per_photo": 0.09312216612585149,
+          "within_target": 0.718,
+          "miss_rate": 0.054867124208248935,
+          "helmeted_sent_to_review": 0.046678245073613824,
+          "flagged_persons_per_photo": 0.9949638554216867
+        }
+      ],
+      "0.2": [
+        {
+          "n": 25,
+          "certified": 1.0,
+          "detection_rule_certified": 0.764,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.09816918672371074,
+          "within_target": 1.0,
+          "miss_rate": 0.059325097377070465,
+          "helmeted_sent_to_review": 0.04349114511845237,
+          "flagged_persons_per_photo": 1.1504593190998271
+        },
+        {
+          "n": 50,
+          "certified": 1.0,
+          "detection_rule_certified": 0.9,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10041375603644678,
+          "within_target": 1.0,
+          "miss_rate": 0.060847830029313474,
+          "helmeted_sent_to_review": 0.03274353593027297,
+          "flagged_persons_per_photo": 1.0990212827566237
+        },
+        {
+          "n": 100,
+          "certified": 1.0,
+          "detection_rule_certified": 0.98,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10056284645272141,
+          "within_target": 1.0,
+          "miss_rate": 0.06098056244194717,
+          "helmeted_sent_to_review": 0.032110037033048745,
+          "flagged_persons_per_photo": 1.071471488989354
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 1.0,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10063403800524948,
+          "within_target": 1.0,
+          "miss_rate": 0.0610516711923239,
+          "helmeted_sent_to_review": 0.03200179896463708,
+          "flagged_persons_per_photo": 1.0198212224359922
+        },
+        {
+          "n": 400,
+          "certified": 1.0,
+          "detection_rule_certified": 1.0,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10039914519259631,
+          "within_target": 1.0,
+          "miss_rate": 0.0610811406017825,
+          "helmeted_sent_to_review": 0.03176097415863264,
+          "flagged_persons_per_photo": 0.9127390574958061
+        }
+      ],
+      "0.3": [
+        {
+          "n": 25,
+          "certified": 1.0,
+          "detection_rule_certified": 0.986,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10057631132958693,
+          "within_target": 1.0,
+          "miss_rate": 0.060984983733342844,
+          "helmeted_sent_to_review": 0.03222748744103895,
+          "flagged_persons_per_photo": 1.1089930755914597
+        },
+        {
+          "n": 50,
+          "certified": 1.0,
+          "detection_rule_certified": 1.0,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10053804631957929,
+          "within_target": 1.0,
+          "miss_rate": 0.06098539711188023,
+          "helmeted_sent_to_review": 0.032166291818221025,
+          "flagged_persons_per_photo": 1.0963920660199797
+        },
+        {
+          "n": 100,
+          "certified": 1.0,
+          "detection_rule_certified": 1.0,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10069072939850929,
+          "within_target": 1.0,
+          "miss_rate": 0.061101449137058866,
+          "helmeted_sent_to_review": 0.032119852298406595,
+          "flagged_persons_per_photo": 1.0710433134023625
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 1.0,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10065410983872235,
+          "within_target": 1.0,
+          "miss_rate": 0.06107288283572835,
+          "helmeted_sent_to_review": 0.03198906489946347,
+          "flagged_persons_per_photo": 1.0200097676483646
+        },
+        {
+          "n": 400,
+          "certified": 1.0,
+          "detection_rule_certified": 1.0,
+          "tau_median": 0.05,
+          "miss_rate_per_photo": 0.10068902609514464,
+          "within_target": 1.0,
+          "miss_rate": 0.06100737732697507,
+          "helmeted_sent_to_review": 0.03176409190584251,
+          "flagged_persons_per_photo": 0.9131255147170961
+        }
+      ]
+    },
+    "shwd": {
+      "0.1": [
+        {
+          "n": 25,
+          "certified": 0.238,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.95,
+          "miss_rate_per_photo": 0.12140871953858778,
+          "within_target": 0.09243697478991597,
+          "miss_rate": 0.15272283790271257,
+          "helmeted_sent_to_review": 0.7121078111195046,
+          "flagged_persons_per_photo": 2.4823740426746768
+        },
+        {
+          "n": 50,
+          "certified": 0.322,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.95,
+          "miss_rate_per_photo": 0.1136201396147655,
+          "within_target": 0.18633540372670807,
+          "miss_rate": 0.1460724374502135,
+          "helmeted_sent_to_review": 0.7751725002559655,
+          "flagged_persons_per_photo": 2.628148707180939
+        },
+        {
+          "n": 100,
+          "certified": 0.306,
+          "detection_rule_certified": 0.0,
+          "tau_median": 1.0,
+          "miss_rate_per_photo": 0.11325053875787416,
+          "within_target": 0.2222222222222222,
+          "miss_rate": 0.14469780074763172,
+          "helmeted_sent_to_review": 0.7990153576936998,
+          "flagged_persons_per_photo": 2.6320060370014575
+        },
+        {
+          "n": 200,
+          "certified": 0.342,
+          "detection_rule_certified": 0.0,
+          "tau_median": 1.0,
+          "miss_rate_per_photo": 0.11537488618118227,
+          "within_target": 0.16374269005847952,
+          "miss_rate": 0.14731823757370935,
+          "helmeted_sent_to_review": 0.826200658769545,
+          "flagged_persons_per_photo": 2.5664318712295944
+        },
+        {
+          "n": 400,
+          "certified": 0.39,
+          "detection_rule_certified": 0.0,
+          "tau_median": 1.0,
+          "miss_rate_per_photo": 0.12140128060867125,
+          "within_target": 0.39487179487179486,
+          "miss_rate": 0.14741064005694443,
+          "helmeted_sent_to_review": 0.884690155799495,
+          "flagged_persons_per_photo": 2.3884093332014467
+        }
+      ],
+      "0.2": [
+        {
+          "n": 25,
+          "certified": 0.896,
+          "detection_rule_certified": 0.02,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.16608493763241988,
+          "within_target": 0.734375,
+          "miss_rate": 0.19306863396379637,
+          "helmeted_sent_to_review": 0.45986371083492156,
+          "flagged_persons_per_photo": 1.778543073433214
+        },
+        {
+          "n": 50,
+          "certified": 0.992,
+          "detection_rule_certified": 0.002,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.17285752339802865,
+          "within_target": 0.6955645161290323,
+          "miss_rate": 0.19762606508809755,
+          "helmeted_sent_to_review": 0.407189864188319,
+          "flagged_persons_per_photo": 1.6101792348478472
+        },
+        {
+          "n": 100,
+          "certified": 1.0,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.17672971113233069,
+          "within_target": 0.67,
+          "miss_rate": 0.199359707923148,
+          "helmeted_sent_to_review": 0.36041178469756036,
+          "flagged_persons_per_photo": 1.434589441701481
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.1807267311257636,
+          "within_target": 0.714,
+          "miss_rate": 0.2023816501199214,
+          "helmeted_sent_to_review": 0.3040500046478933,
+          "flagged_persons_per_photo": 1.1851298855112513
+        },
+        {
+          "n": 400,
+          "certified": 1.0,
+          "detection_rule_certified": 0.0,
+          "tau_median": 0.9,
+          "miss_rate_per_photo": 0.190147826880558,
+          "within_target": 0.566,
+          "miss_rate": 0.20440601516625684,
+          "helmeted_sent_to_review": 0.2370299119485037,
+          "flagged_persons_per_photo": 0.7939357051007286
+        }
+      ],
+      "0.3": [
+        {
+          "n": 25,
+          "certified": 0.998,
+          "detection_rule_certified": 0.29,
+          "tau_median": 0.3,
+          "miss_rate_per_photo": 0.2578332710783084,
+          "within_target": 0.6212424849699398,
+          "miss_rate": 0.28755318743628766,
+          "helmeted_sent_to_review": 0.14570952234181073,
+          "flagged_persons_per_photo": 0.8706356583181133
+        },
+        {
+          "n": 50,
+          "certified": 1.0,
+          "detection_rule_certified": 0.31,
+          "tau_median": 0.2,
+          "miss_rate_per_photo": 0.2759627131787755,
+          "within_target": 0.6,
+          "miss_rate": 0.30556383865705405,
+          "helmeted_sent_to_review": 0.0887182018334085,
+          "flagged_persons_per_photo": 0.6887663063734626
+        },
+        {
+          "n": 100,
+          "certified": 1.0,
+          "detection_rule_certified": 0.252,
+          "tau_median": 0.15,
+          "miss_rate_per_photo": 0.28573307188403396,
+          "within_target": 0.604,
+          "miss_rate": 0.31843870937222596,
+          "helmeted_sent_to_review": 0.06778458910905706,
+          "flagged_persons_per_photo": 0.5910900113938473
+        },
+        {
+          "n": 200,
+          "certified": 1.0,
+          "detection_rule_certified": 0.144,
+          "tau_median": 0.15,
+          "miss_rate_per_photo": 0.2902815279782767,
+          "within_target": 0.606,
+          "miss_rate": 0.3247968592283473,
+          "helmeted_sent_to_review": 0.05749868485229659,
+          "flagged_persons_per_photo": 0.4887366758784051
+        },
+        {
+          "n": 400,
+          "certified": 1.0,
+          "detection_rule_certified": 0.006,
+          "tau_median": 0.15,
+          "miss_rate_per_photo": 0.29949405577149274,
+          "within_target": 0.536,
+          "miss_rate": 0.32564865791265346,
+          "helmeted_sent_to_review": 0.048514250744154844,
+          "flagged_persons_per_photo": 0.3057496785255036
+        }
+      ]
+    }
+  },
+  "ceiling": {
+    "source": {
+      "miss_rate": {
+        "mean": 0.16279069767441862,
+        "min": 0.16279069767441862,
+        "max": 0.16279069767441862
+      },
+      "miss_rate_per_photo": {
+        "mean": 0.11196845967488168,
+        "min": 0.11196845967488168,
+        "max": 0.11196845967488168
+      },
+      "detection_rule_miss_rate": {
+        "mean": 0.4418604651162791,
+        "min": 0.4418604651162791,
+        "max": 0.4418604651162791
+      },
+      "detection_rule_miss_rate_per_photo": {
+        "mean": 0.35368522914394473,
+        "min": 0.35368522914394473,
+        "max": 0.35368522914394473
+      }
+    },
+    "hard_hat_workers": {
+      "miss_rate": {
+        "mean": 0.02148882640224952,
+        "min": 0.019535296729317746,
+        "max": 0.02323516353411277
+      },
+      "miss_rate_per_photo": {
+        "mean": 0.03496425756188484,
+        "min": 0.032607402059835436,
+        "max": 0.03656846456468979
+      },
+      "detection_rule_miss_rate": {
+        "mean": 0.1772976172857777,
+        "min": 0.15465443244043214,
+        "max": 0.19727689803167087
+      },
+      "detection_rule_miss_rate_per_photo": {
+        "mean": 0.1979307023091717,
+        "min": 0.17557130137208043,
+        "max": 0.21378247253992572
+      }
+    },
+    "shwd": {
+      "miss_rate": {
+        "mean": 0.13764204545454545,
+        "min": 0.11647727272727272,
+        "max": 0.15625
+      },
+      "miss_rate_per_photo": {
+        "mean": 0.10063548916734608,
+        "min": 0.09525511367833568,
+        "max": 0.1096598755830976
+      },
+      "detection_rule_miss_rate": {
+        "mean": 0.5002840909090909,
+        "min": 0.4786931818181818,
+        "max": 0.5284090909090909
+      },
+      "detection_rule_miss_rate_per_photo": {
+        "mean": 0.42384945726653145,
+        "min": 0.4157127539375688,
+        "max": 0.4390193898598258
+      }
+    }
+  },
+  "curves": {
+    "source": {
+      "miss_rate": [
+        0.25839793281653745,
+        0.25064599483204136,
+        0.24289405684754523,
+        0.24031007751937986,
+        0.2351421188630491,
+        0.23255813953488372,
+        0.2222222222222222,
+        0.21963824289405684,
+        0.21705426356589147,
+        0.2144702842377261,
+        0.2041343669250646,
+        0.2041343669250646,
+        0.2041343669250646,
+        0.20155038759689922,
+        0.19896640826873385,
+        0.1937984496124031,
+        0.19121447028423771,
+        0.17829457364341086,
+        0.165374677002584,
+        0.16279069767441862
+      ],
+      "helmeted_sent_to_review": [
+        0.05671077504725898,
+        0.0661625708884688,
+        0.0831758034026465,
+        0.0888468809073724,
+        0.09829867674858223,
+        0.11720226843100189,
+        0.1323251417769376,
+        0.14177693761814744,
+        0.15311909262759923,
+        0.15689981096408318,
+        0.17013232514177692,
+        0.17958412098298676,
+        0.1890359168241966,
+        0.1947069943289225,
+        0.20415879017013233,
+        0.21550094517958412,
+        0.2551984877126654,
+        0.3591682419659735,
+        0.7504725897920604,
+        0.8449905482041588
+      ],
+      "flagged_persons_per_photo": [
+        0.6204268292682927,
+        0.6448170731707317,
+        0.6646341463414634,
+        0.6783536585365854,
+        0.6966463414634146,
+        0.7103658536585366,
+        0.7225609756097561,
+        0.7317073170731707,
+        0.7408536585365854,
+        0.7469512195121951,
+        0.760670731707317,
+        0.7652439024390244,
+        0.7682926829268293,
+        0.774390243902439,
+        0.7850609756097561,
+        0.7972560975609756,
+        0.8323170731707317,
+        0.9146341463414634,
+        1.2027439024390243,
+        1.2789634146341464
+      ]
+    },
+    "hard_hat_workers": {
+      "miss_rate": [
+        0.06100340387746041,
+        0.05845789551576143,
+        0.05588278821962409,
+        0.05425484682551428,
+        0.05268610330028119,
+        0.0517093384638153,
+        0.05058457895515761,
+        0.04948941838093829,
+        0.04803907059345864,
+        0.04700310788811603,
+        0.045641556903951455,
+        0.0444280005919787,
+        0.04259286665680036,
+        0.04090572739381382,
+        0.03877460411425188,
+        0.036258694686991264,
+        0.03383158206304573,
+        0.029480538700606778,
+        0.022524789107592126,
+        0.02148882640224952
+      ],
+      "helmeted_sent_to_review": [
+        0.03222448979591837,
+        0.03602040816326531,
+        0.04212244897959184,
+        0.0468469387755102,
+        0.0513061224489796,
+        0.05580612244897959,
+        0.05993877551020409,
+        0.06433673469387755,
+        0.06902040816326531,
+        0.07396938775510205,
+        0.07931632653061224,
+        0.08587755102040816,
+        0.09335714285714286,
+        0.10259183673469388,
+        0.11579591836734696,
+        0.13757142857142854,
+        0.18266326530612242,
+        0.3337857142857143,
+        0.8253469387755101,
+        0.9247551020408163
+      ],
+      "flagged_persons_per_photo": [
+        1.1210579272675,
+        1.149604714675866,
+        1.1897944516314503,
+        1.2180825068276555,
+        1.2420871065114274,
+        1.2641080925686359,
+        1.2838579847635476,
+        1.3038666091706195,
+        1.3240189736955585,
+        1.3450912749748454,
+        1.3664798045134396,
+        1.3903981601264912,
+        1.418341239039816,
+        1.4501940491591203,
+        1.4944085094149777,
+        1.5628863015667673,
+        1.6931435963777488,
+        2.0996406497053326,
+        3.390455656173638,
+        3.657151070863878
+      ]
+    },
+    "shwd": {
+      "miss_rate": [
+        0.3525568181818182,
+        0.3455965909090909,
+        0.32784090909090907,
+        0.3164772727272728,
+        0.309375,
+        0.3025568181818182,
+        0.29602272727272727,
+        0.2903409090909091,
+        0.2839488636363636,
+        0.27713068181818185,
+        0.27315340909090907,
+        0.26647727272727273,
+        0.2598011363636364,
+        0.2515625,
+        0.24389204545454546,
+        0.23267045454545454,
+        0.2200284090909091,
+        0.19957386363636362,
+        0.14857954545454546,
+        0.13764204545454545
+      ],
+      "helmeted_sent_to_review": [
+        0.0444472520530638,
+        0.04952621604548326,
+        0.05692987997473152,
+        0.06314592545799116,
+        0.06898294377763739,
+        0.07416298168035376,
+        0.07951989892608971,
+        0.08550852811118129,
+        0.09066329753632343,
+        0.09773847125710676,
+        0.10438408085912824,
+        0.11138344914718887,
+        0.11941882501579279,
+        0.1301831964624131,
+        0.14471257106759317,
+        0.1674289324068225,
+        0.206367656348705,
+        0.3148704990524321,
+        0.6969551484523058,
+        0.8795704358812382
+      ],
+      "flagged_persons_per_photo": [
+        0.5524332235638492,
+        0.5798024149286498,
+        0.6177094767654592,
+        0.6477863154043175,
+        0.6743505305525064,
+        0.6964507866813026,
+        0.7181851445298209,
+        0.7402122210025613,
+        0.7593121112330772,
+        0.7822173435784852,
+        0.8026344676180022,
+        0.8264178558360775,
+        0.8549579216977682,
+        0.8903036955726307,
+        0.9354555433589462,
+        1.002268569337724,
+        1.1159165751920965,
+        1.4115623856567872,
+        2.4584705451884377,
+        2.9991950237833884
+      ]
+    }
+  }
+}

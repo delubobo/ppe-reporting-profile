@@ -1,0 +1,333 @@
+{
+  "size": "nano",
+  "t_high": 0.75,
+  "overlap_rule": "IoU >= 0.3 or >= 50% of the report inside the other box",
+  "post_hoc": true,
+  "label_files": 8099,
+  "per_model": [
+    {
+      "helmet": {
+        "false": {
+          "labelled helmet (already matched)": 8,
+          "head gear other than helmet": 20,
+          "bare or any head": 376,
+          "face": 48,
+          "none of these": 94,
+          "n": 475
+        },
+        "true": {
+          "labelled helmet (already matched)": 347,
+          "head gear other than helmet": 7,
+          "bare or any head": 316,
+          "face": 1,
+          "none of these": 0,
+          "n": 347
+        }
+      },
+      "vest": {
+        "false": {
+          "labelled safety-vest (already matched)": 6,
+          "safety-suit": 26,
+          "medical-suit": 0,
+          "person": 179,
+          "none of these": 12,
+          "n": 193
+        },
+        "true": {
+          "labelled safety-vest (already matched)": 137,
+          "safety-suit": 1,
+          "medical-suit": 0,
+          "person": 124,
+          "none of these": 0,
+          "n": 137
+        }
+      }
+    },
+    {
+      "helmet": {
+        "false": {
+          "labelled helmet (already matched)": 4,
+          "head gear other than helmet": 16,
+          "bare or any head": 279,
+          "face": 25,
+          "none of these": 77,
+          "n": 361
+        },
+        "true": {
+          "labelled helmet (already matched)": 338,
+          "head gear other than helmet": 5,
+          "bare or any head": 309,
+          "face": 1,
+          "none of these": 0,
+          "n": 338
+        }
+      },
+      "vest": {
+        "false": {
+          "labelled safety-vest (already matched)": 5,
+          "safety-suit": 38,
+          "medical-suit": 0,
+          "person": 228,
+          "none of these": 14,
+          "n": 243
+        },
+        "true": {
+          "labelled safety-vest (already matched)": 146,
+          "safety-suit": 1,
+          "medical-suit": 0,
+          "person": 133,
+          "none of these": 0,
+          "n": 146
+        }
+      }
+    },
+    {
+      "helmet": {
+        "false": {
+          "labelled helmet (already matched)": 5,
+          "head gear other than helmet": 19,
+          "bare or any head": 338,
+          "face": 45,
+          "none of these": 84,
+          "n": 429
+        },
+        "true": {
+          "labelled helmet (already matched)": 330,
+          "head gear other than helmet": 3,
+          "bare or any head": 301,
+          "face": 1,
+          "none of these": 0,
+          "n": 330
+        }
+      },
+      "vest": {
+        "false": {
+          "labelled safety-vest (already matched)": 2,
+          "safety-suit": 40,
+          "medical-suit": 0,
+          "person": 224,
+          "none of these": 14,
+          "n": 238
+        },
+        "true": {
+          "labelled safety-vest (already matched)": 141,
+          "safety-suit": 1,
+          "medical-suit": 0,
+          "person": 129,
+          "none of these": 0,
+          "n": 141
+        }
+      }
+    },
+    {
+      "helmet": {
+        "false": {
+          "labelled helmet (already matched)": 8,
+          "head gear other than helmet": 13,
+          "bare or any head": 306,
+          "face": 28,
+          "none of these": 106,
+          "n": 417
+        },
+        "true": {
+          "labelled helmet (already matched)": 337,
+          "head gear other than helmet": 5,
+          "bare or any head": 300,
+          "face": 2,
+          "none of these": 0,
+          "n": 337
+        }
+      },
+      "vest": {
+        "false": {
+          "labelled safety-vest (already matched)": 8,
+          "safety-suit": 41,
+          "medical-suit": 0,
+          "person": 218,
+          "none of these": 12,
+          "n": 232
+        },
+        "true": {
+          "labelled safety-vest (already matched)": 147,
+          "safety-suit": 1,
+          "medical-suit": 0,
+          "person": 136,
+          "none of these": 0,
+          "n": 147
+        }
+      }
+    },
+    {
+      "helmet": {
+        "false": {
+          "labelled helmet (already matched)": 7,
+          "head gear other than helmet": 13,
+          "bare or any head": 314,
+          "face": 26,
+          "none of these": 113,
+          "n": 432
+        },
+        "true": {
+          "labelled helmet (already matched)": 347,
+          "head gear other than helmet": 8,
+          "bare or any head": 313,
+          "face": 1,
+          "none of these": 0,
+          "n": 347
+        }
+      },
+      "vest": {
+        "false": {
+          "labelled safety-vest (already matched)": 6,
+          "safety-suit": 22,
+          "medical-suit": 0,
+          "person": 212,
+          "none of these": 16,
+          "n": 230
+        },
+        "true": {
+          "labelled safety-vest (already matched)": 125,
+          "safety-suit": 1,
+          "medical-suit": 0,
+          "person": 115,
+          "none of these": 0,
+          "n": 125
+        }
+      }
+    }
+  ],
+  "summary": {
+    "helmet": {
+      "false": {
+        "n_reports": {
+          "mean": 422.8,
+          "min": 361.0,
+          "max": 475.0
+        },
+        "labelled helmet (already matched)": {
+          "mean": 0.0149931610620046,
+          "min": 0.0110803324099723,
+          "max": 0.019184652278177457
+        },
+        "head gear other than helmet": {
+          "mean": 0.038396657926291836,
+          "min": 0.03009259259259259,
+          "max": 0.0443213296398892
+        },
+        "bare or any head": {
+          "mean": 0.7625951444669832,
+          "min": 0.7268518518518519,
+          "max": 0.791578947368421
+        },
+        "face": {
+          "mean": 0.0805062564390371,
+          "min": 0.06018518518518518,
+          "max": 0.1048951048951049
+        },
+        "none of these": {
+          "mean": 0.22455320965963863,
+          "min": 0.1958041958041958,
+          "max": 0.26157407407407407
+        }
+      },
+      "true": {
+        "n_reports": {
+          "mean": 339.8,
+          "min": 330.0,
+          "max": 347.0
+        },
+        "labelled helmet (already matched)": {
+          "mean": 1.0,
+          "min": 1.0,
+          "max": 1.0
+        },
+        "head gear other than helmet": {
+          "mean": 0.0163896538914941,
+          "min": 0.00909090909090909,
+          "max": 0.023054755043227664
+        },
+        "bare or any head": {
+          "mean": 0.9058420451920941,
+          "min": 0.8902077151335311,
+          "max": 0.9142011834319527
+        },
+        "face": {
+          "mean": 0.003537457954731392,
+          "min": 0.002881844380403458,
+          "max": 0.005934718100890208
+        },
+        "none of these": {
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        }
+      }
+    },
+    "vest": {
+      "false": {
+        "n_reports": {
+          "mean": 227.2,
+          "min": 193.0,
+          "max": 243.0
+        },
+        "labelled safety-vest (already matched)": {
+          "mean": 0.02412745821515276,
+          "min": 0.008403361344537815,
+          "max": 0.034482758620689655
+        },
+        "safety-suit": {
+          "mean": 0.14630743309292307,
+          "min": 0.09565217391304348,
+          "max": 0.17672413793103448
+        },
+        "medical-suit": {
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        },
+        "person": {
+          "mean": 0.9336607036542912,
+          "min": 0.9217391304347826,
+          "max": 0.9411764705882353
+        },
+        "none of these": {
+          "mean": 0.059980443852298435,
+          "min": 0.05172413793103448,
+          "max": 0.06956521739130435
+        }
+      },
+      "true": {
+        "n_reports": {
+          "mean": 139.2,
+          "min": 125.0,
+          "max": 147.0
+        },
+        "labelled safety-vest (already matched)": {
+          "mean": 1.0,
+          "min": 1.0,
+          "max": 1.0
+        },
+        "safety-suit": {
+          "mean": 0.007208700962296302,
+          "min": 0.006802721088435374,
+          "max": 0.008
+        },
+        "medical-suit": {
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        },
+        "person": {
+          "mean": 0.9152264156418344,
+          "min": 0.9051094890510949,
+          "max": 0.9251700680272109
+        },
+        "none of these": {
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        }
+      }
+    }
+  }
+}

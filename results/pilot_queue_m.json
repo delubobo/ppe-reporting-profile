@@ -1,0 +1,5674 @@
+{
+  "source": {
+    "photo": [
+      {
+        "alpha": 0.2,
+        "n_photos": 656,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.034939024390243906,
+              "over_target": 0.004,
+              "auto_share": 0.44447239612976663
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.034939024390243906,
+              "over_target": 0.004,
+              "auto_share": 0.44447239612976663
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.88,
+              "risk_mean": 0.06222560975609756,
+              "over_target": 0.004,
+              "auto_share": 0.6610119521912351
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.0905609756097561,
+              "over_target": 0.012,
+              "auto_share": 0.7704883323847468
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.0912408536585366,
+              "over_target": 0.014,
+              "auto_share": 0.7720569151963574
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09404268292682927,
+              "over_target": 0.008,
+              "auto_share": 0.7900056915196356
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.11383841463414635,
+              "over_target": 0.006,
+              "auto_share": 0.8391462720546385
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.11846951219512195,
+              "over_target": 0.014,
+              "auto_share": 0.8482253841775755
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.785,
+              "risk_mean": 0.12117378048780489,
+              "over_target": 0.008,
+              "auto_share": 0.8567694934547524
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.1405670731707317,
+              "over_target": 0.008,
+              "auto_share": 0.89827546955037
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.14442378048780488,
+              "over_target": 0.022,
+              "auto_share": 0.9045463858850313
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.14252743902439025,
+              "over_target": 0.008,
+              "auto_share": 0.9064701195219124
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.1568353658536585,
+              "over_target": 0.0,
+              "auto_share": 0.9294331246442801
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.16034451219512194,
+              "over_target": 0.022,
+              "auto_share": 0.9338247011952192
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.008,
+        "peek_ever_over_target": 0.022
+      }
+    ],
+    "detection": [
+      {
+        "alpha": 0.1,
+        "n_photos": 656,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.432,
+              "threshold_median": 0.79,
+              "risk_mean": 0.03336278057730226,
+              "over_target": 0.134,
+              "auto_share": 0.24276835515082526
+            },
+            "peek": {
+              "reports": 0.432,
+              "threshold_median": 0.79,
+              "risk_mean": 0.03336278057730226,
+              "over_target": 0.134,
+              "auto_share": 0.24276835515082526
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.772,
+              "threshold_median": 0.88,
+              "risk_mean": 0.03993968648554042,
+              "over_target": 0.076,
+              "auto_share": 0.3832601024473535
+            },
+            "peek": {
+              "reports": 0.84,
+              "threshold_median": 0.84,
+              "risk_mean": 0.05530973562003802,
+              "over_target": 0.186,
+              "auto_share": 0.4481525327262379
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.772,
+              "threshold_median": 0.87,
+              "risk_mean": 0.04196888788013858,
+              "over_target": 0.05,
+              "auto_share": 0.40507569721115533
+            },
+            "peek": {
+              "reports": 0.896,
+              "threshold_median": 0.82,
+              "risk_mean": 0.06295268629146206,
+              "over_target": 0.204,
+              "auto_share": 0.498835515082527
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.91,
+              "threshold_median": 0.85,
+              "risk_mean": 0.05359121665144036,
+              "over_target": 0.024,
+              "auto_share": 0.49972908366533864
+            },
+            "peek": {
+              "reports": 0.978,
+              "threshold_median": 0.8,
+              "risk_mean": 0.07334159958304892,
+              "over_target": 0.212,
+              "auto_share": 0.5655355719977234
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.996,
+              "threshold_median": 0.82,
+              "risk_mean": 0.0663916368090676,
+              "over_target": 0.016,
+              "auto_share": 0.5788844621513944
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.08189902555202304,
+              "over_target": 0.22,
+              "auto_share": 0.6031633466135459
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.07434138950492829,
+              "over_target": 0.0,
+              "auto_share": 0.600352874217416
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.08781582178673124,
+              "over_target": 0.22,
+              "auto_share": 0.6169106431417188
+            }
+          }
+        ],
+        "seq_first_unlock_median": null,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.22
+      }
+    ]
+  },
+  "chv": {
+    "photo": [
+      {
+        "alpha": 0.2,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.029977116704805486,
+              "over_target": 0.0,
+              "auto_share": 0.18280770964833185
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.029977116704805486,
+              "over_target": 0.0,
+              "auto_share": 0.18280770964833185
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.95,
+              "risk_mean": 0.050785659801678124,
+              "over_target": 0.0,
+              "auto_share": 0.2893845807033363
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08113653699466056,
+              "over_target": 0.01,
+              "auto_share": 0.4281729035166817
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08142639206712433,
+              "over_target": 0.01,
+              "auto_share": 0.4297790802524797
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08524790236460716,
+              "over_target": 0.01,
+              "auto_share": 0.4514686654643823
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.10302822273073992,
+              "over_target": 0.01,
+              "auto_share": 0.5187883228133454
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.10740655987795578,
+              "over_target": 0.01,
+              "auto_share": 0.5336203787195671
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.1098474446987033,
+              "over_target": 0.01,
+              "auto_share": 0.5474921100090172
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.12846681922196798,
+              "over_target": 0.0,
+              "auto_share": 0.6081188007213707
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.13188405797101452,
+              "over_target": 0.01,
+              "auto_share": 0.6168800721370604
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.13286803966437832,
+              "over_target": 0.01,
+              "auto_share": 0.6214607754733995
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.1470327993897788,
+              "over_target": 0.01,
+              "auto_share": 0.6581447249774572
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.15048817696414954,
+              "over_target": 0.02,
+              "auto_share": 0.6662082957619478
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14871853546910757,
+              "over_target": 0.01,
+              "auto_share": 0.6625371956717764
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.1598932112890923,
+              "over_target": 0.0,
+              "auto_share": 0.6898545987376017
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.1628146453089245,
+              "over_target": 0.02,
+              "auto_share": 0.6963503155996394
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.01,
+        "peek_ever_over_target": 0.02
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.024637681159420288,
+              "over_target": 0.0,
+              "auto_share": 0.14638845553822155
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.024637681159420288,
+              "over_target": 0.0,
+              "auto_share": 0.14638845553822155
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.95,
+              "risk_mean": 0.050945842868039645,
+              "over_target": 0.0,
+              "auto_share": 0.27793291731669273
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.07726163234172385,
+              "over_target": 0.0,
+              "auto_share": 0.3875250724314687
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.07752860411899312,
+              "over_target": 0.0,
+              "auto_share": 0.3888956986850903
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.07861174675819985,
+              "over_target": 0.0,
+              "auto_share": 0.398785379986628
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.0955301296720061,
+              "over_target": 0.0,
+              "auto_share": 0.46130488076665926
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.10029748283752861,
+              "over_target": 0.0,
+              "auto_share": 0.4755382215288611
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.10385202135774219,
+              "over_target": 0.0,
+              "auto_share": 0.49224091820815685
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.12403508771929823,
+              "over_target": 0.0,
+              "auto_share": 0.5588422108312904
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.12676582761250954,
+              "over_target": 0.0,
+              "auto_share": 0.5661143302874971
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.12645308924485127,
+              "over_target": 0.0,
+              "auto_share": 0.568982616447515
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14144927536231885,
+              "over_target": 0.01,
+              "auto_share": 0.6080944952083798
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14451563691838293,
+              "over_target": 0.01,
+              "auto_share": 0.6153420993982617
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14292906178489706,
+              "over_target": 0.0,
+              "auto_share": 0.6128259416090929
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.15437070938215108,
+              "over_target": 0.0,
+              "auto_share": 0.6419010474704703
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.15628527841342493,
+              "over_target": 0.01,
+              "auto_share": 0.6458190327613105
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.01
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.97,
+              "threshold_median": 0.96,
+              "risk_mean": 0.030663615560640737,
+              "over_target": 0.01,
+              "auto_share": 0.18919932622122404
+            },
+            "peek": {
+              "reports": 0.97,
+              "threshold_median": 0.96,
+              "risk_mean": 0.030663615560640737,
+              "over_target": 0.01,
+              "auto_share": 0.18919932622122404
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.95,
+              "risk_mean": 0.05920671243325705,
+              "over_target": 0.01,
+              "auto_share": 0.3359854014598541
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.0873073989321129,
+              "over_target": 0.0,
+              "auto_share": 0.4544435710275127
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.0887109077040427,
+              "over_target": 0.01,
+              "auto_share": 0.45779225154407643
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08701754385964913,
+              "over_target": 0.01,
+              "auto_share": 0.4560404267265582
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.10699466056445459,
+              "over_target": 0.01,
+              "auto_share": 0.5247961819202696
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.11331807780320365,
+              "over_target": 0.02,
+              "auto_share": 0.5429612577203818
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.11193745232646833,
+              "over_target": 0.02,
+              "auto_share": 0.541173498034812
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.13381388253241797,
+              "over_target": 0.02,
+              "auto_share": 0.6083133071308253
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.13800152555301293,
+              "over_target": 0.03,
+              "auto_share": 0.6190892756878159
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.1334248665141113,
+              "over_target": 0.02,
+              "auto_share": 0.608250421111735
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14693363844393592,
+              "over_target": 0.0,
+              "auto_share": 0.646151600224593
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.915,
+              "risk_mean": 0.15122807017543857,
+              "over_target": 0.03,
+              "auto_share": 0.6560774845592364
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.1485354691075515,
+              "over_target": 0.02,
+              "auto_share": 0.6512038180797305
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.1599237223493516,
+              "over_target": 0.0,
+              "auto_share": 0.679394722066255
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.1628299008390541,
+              "over_target": 0.03,
+              "auto_share": 0.6854901740595172
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.02,
+        "peek_ever_over_target": 0.03
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.027856598016781087,
+              "over_target": 0.0,
+              "auto_share": 0.15707072953736656
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.027856598016781087,
+              "over_target": 0.0,
+              "auto_share": 0.15707072953736656
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.95,
+              "risk_mean": 0.05143401983218915,
+              "over_target": 0.0,
+              "auto_share": 0.28594194839857656
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08157894736842104,
+              "over_target": 0.01,
+              "auto_share": 0.4228981316725978
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08183066361556063,
+              "over_target": 0.01,
+              "auto_share": 0.4243338523131672
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08246376811594205,
+              "over_target": 0.0,
+              "auto_share": 0.4376412366548042
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.09852784134248667,
+              "over_target": 0.01,
+              "auto_share": 0.493585409252669
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.935,
+              "risk_mean": 0.10580472921434023,
+              "over_target": 0.02,
+              "auto_share": 0.5150878558718861
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.10630053394355456,
+              "over_target": 0.0,
+              "auto_share": 0.5205805160142348
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.13170099160945842,
+              "over_target": 0.0,
+              "auto_share": 0.5919584074733096
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.13646071700991608,
+              "over_target": 0.02,
+              "auto_share": 0.6047453291814946
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.13083142639206713,
+              "over_target": 0.0,
+              "auto_share": 0.5895284697508896
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.1489397406559878,
+              "over_target": 0.0,
+              "auto_share": 0.6420951957295372
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.15328756674294433,
+              "over_target": 0.02,
+              "auto_share": 0.6535342526690391
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14816170861937455,
+              "over_target": 0.0,
+              "auto_share": 0.6407784697508896
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.1605949656750572,
+              "over_target": 0.0,
+              "auto_share": 0.6759052491103202
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.16431731502669716,
+              "over_target": 0.02,
+              "auto_share": 0.6852468861209963
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.02
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.97,
+              "risk_mean": 0.02973302822273075,
+              "over_target": 0.01,
+              "auto_share": 0.1667141255605381
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.97,
+              "risk_mean": 0.02973302822273075,
+              "over_target": 0.01,
+              "auto_share": 0.1667141255605381
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.96,
+              "risk_mean": 0.05331045003813885,
+              "over_target": 0.01,
+              "auto_share": 0.28278587443946185
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08775743707093822,
+              "over_target": 0.02,
+              "auto_share": 0.4410885650224215
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08941266209000764,
+              "over_target": 0.03,
+              "auto_share": 0.4455616591928251
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.94,
+              "risk_mean": 0.08872616323417239,
+              "over_target": 0.01,
+              "auto_share": 0.45266591928251115
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.1038977879481312,
+              "over_target": 0.0,
+              "auto_share": 0.5159899103139013
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.10990083905415714,
+              "over_target": 0.03,
+              "auto_share": 0.5343340807174887
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.10938977879481313,
+              "over_target": 0.01,
+              "auto_share": 0.5407578475336322
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.12886346300533943,
+              "over_target": 0.02,
+              "auto_share": 0.5992881165919283
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.925,
+              "risk_mean": 0.13347826086956524,
+              "over_target": 0.05,
+              "auto_share": 0.6111838565022422
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.13044241037376048,
+              "over_target": 0.01,
+              "auto_share": 0.6060683856502241
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14507246376811594,
+              "over_target": 0.0,
+              "auto_share": 0.6439786995515695
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.15091533180778033,
+              "over_target": 0.05,
+              "auto_share": 0.6588071748878923
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.14805491990846684,
+              "over_target": 0.01,
+              "auto_share": 0.6513183856502244
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.15848207475209766,
+              "over_target": 0.0,
+              "auto_share": 0.678135650224215
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.1639664378337147,
+              "over_target": 0.05,
+              "auto_share": 0.692160313901345
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.01,
+        "peek_ever_over_target": 0.05
+      }
+    ],
+    "detection": [
+      {
+        "alpha": 0.1,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.66,
+              "threshold_median": 0.88,
+              "risk_mean": 0.03844568081816824,
+              "over_target": 0.06,
+              "auto_share": 0.3325856627592425
+            },
+            "peek": {
+              "reports": 0.66,
+              "threshold_median": 0.88,
+              "risk_mean": 0.03844568081816824,
+              "over_target": 0.06,
+              "auto_share": 0.3325856627592425
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.79,
+              "threshold_median": 0.89,
+              "risk_mean": 0.04643109429444569,
+              "over_target": 0.05,
+              "auto_share": 0.41811992786293956
+            },
+            "peek": {
+              "reports": 0.86,
+              "threshold_median": 0.855,
+              "risk_mean": 0.05438757384638127,
+              "over_target": 0.1,
+              "auto_share": 0.45979486023444543
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.94,
+              "threshold_median": 0.88,
+              "risk_mean": 0.05714548433437796,
+              "over_target": 0.05,
+              "auto_share": 0.520538773669973
+            },
+            "peek": {
+              "reports": 0.98,
+              "threshold_median": 0.84,
+              "risk_mean": 0.0683244713107538,
+              "over_target": 0.13,
+              "auto_share": 0.5518451307484219
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.07005214773926954,
+              "over_target": 0.02,
+              "auto_share": 0.5766963480613164
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.795,
+              "risk_mean": 0.07751795068477954,
+              "over_target": 0.14,
+              "auto_share": 0.5816219567177636
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.01,
+              "threshold_median": 0.9,
+              "risk_mean": 0.0005022736668044646,
+              "over_target": 0.0,
+              "auto_share": 0.0054531109107303875
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.07787851345593012,
+              "over_target": 0.01,
+              "auto_share": 0.5840870153291252
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.08453975170764794,
+              "over_target": 0.15,
+              "auto_share": 0.5870976104598737
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.06290988955089354,
+              "over_target": 0.0,
+              "auto_share": 0.5745513976555454
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.735,
+              "risk_mean": 0.0840328489477705,
+              "over_target": 0.03,
+              "auto_share": 0.5867064923354374
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.08855394564076059,
+              "over_target": 0.16,
+              "auto_share": 0.5887601442741208
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.07949185102121765,
+              "over_target": 0.0,
+              "auto_share": 0.5856864292155095
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.08715159601254947,
+              "over_target": 0.0,
+              "auto_share": 0.5853460324616772
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.655,
+              "risk_mean": 0.09114871129302085,
+              "over_target": 0.16,
+              "auto_share": 0.5886203787195672
+            }
+          }
+        ],
+        "seq_first_unlock_median": 285.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.16
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.65,
+              "threshold_median": 0.89,
+              "risk_mean": 0.040480952234444756,
+              "over_target": 0.09,
+              "auto_share": 0.3211031869846222
+            },
+            "peek": {
+              "reports": 0.65,
+              "threshold_median": 0.89,
+              "risk_mean": 0.040480952234444756,
+              "over_target": 0.09,
+              "auto_share": 0.3211031869846222
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.76,
+              "threshold_median": 0.89,
+              "risk_mean": 0.04550945228403882,
+              "over_target": 0.06,
+              "auto_share": 0.3845498105638512
+            },
+            "peek": {
+              "reports": 0.85,
+              "threshold_median": 0.88,
+              "risk_mean": 0.05637031703454281,
+              "over_target": 0.1,
+              "auto_share": 0.44402496099843985
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.91,
+              "threshold_median": 0.88,
+              "risk_mean": 0.05908972710374604,
+              "over_target": 0.05,
+              "auto_share": 0.48419322487185207
+            },
+            "peek": {
+              "reports": 0.95,
+              "threshold_median": 0.85,
+              "risk_mean": 0.06877855686911936,
+              "over_target": 0.14,
+              "auto_share": 0.5170158234900825
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.99,
+              "threshold_median": 0.87,
+              "risk_mean": 0.07006332851645597,
+              "over_target": 0.09,
+              "auto_share": 0.5485736572320036
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.07803044173065095,
+              "over_target": 0.2,
+              "auto_share": 0.561008468910185
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.07654401443496643,
+              "over_target": 0.07,
+              "auto_share": 0.5656429685758858
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.08299670099533776,
+              "over_target": 0.21,
+              "auto_share": 0.5694149765990639
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.94,
+              "threshold_median": 0.88,
+              "risk_mean": 0.058855833053181865,
+              "over_target": 0.0,
+              "auto_share": 0.5166614664586584
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.765,
+              "risk_mean": 0.0827550087648508,
+              "over_target": 0.04,
+              "auto_share": 0.5708691776242478
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.735,
+              "risk_mean": 0.0880428444651632,
+              "over_target": 0.21,
+              "auto_share": 0.5733808780922665
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.07910349031289515,
+              "over_target": 0.0,
+              "auto_share": 0.5693536884332515
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.0874599241537505,
+              "over_target": 0.0,
+              "auto_share": 0.5721495431245821
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.0921711779691882,
+              "over_target": 0.21,
+              "auto_share": 0.5747314464007133
+            }
+          }
+        ],
+        "seq_first_unlock_median": 336.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.21
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.67,
+              "threshold_median": 0.91,
+              "risk_mean": 0.03676964540595114,
+              "over_target": 0.1,
+              "auto_share": 0.3192700729927007
+            },
+            "peek": {
+              "reports": 0.67,
+              "threshold_median": 0.91,
+              "risk_mean": 0.03676964540595114,
+              "over_target": 0.1,
+              "auto_share": 0.3192700729927007
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.8,
+              "threshold_median": 0.89,
+              "risk_mean": 0.04777267485018796,
+              "over_target": 0.1,
+              "auto_share": 0.4116114542391914
+            },
+            "peek": {
+              "reports": 0.86,
+              "threshold_median": 0.88,
+              "risk_mean": 0.05423493193228269,
+              "over_target": 0.15,
+              "auto_share": 0.4482391914654687
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.91,
+              "threshold_median": 0.87,
+              "risk_mean": 0.05766858344314587,
+              "over_target": 0.05,
+              "auto_share": 0.4985985401459853
+            },
+            "peek": {
+              "reports": 0.94,
+              "threshold_median": 0.85,
+              "risk_mean": 0.066823387930206,
+              "over_target": 0.16,
+              "auto_share": 0.5242436833239753
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.06840226240333674,
+              "over_target": 0.03,
+              "auto_share": 0.5655530600786075
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.07657231642617612,
+              "over_target": 0.16,
+              "auto_share": 0.57149915777653
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.07692997126570603,
+              "over_target": 0.03,
+              "auto_share": 0.5795384615384616
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.08438412865748837,
+              "over_target": 0.19,
+              "auto_share": 0.5826681639528355
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.97,
+              "threshold_median": 0.86,
+              "risk_mean": 0.060730862769335425,
+              "over_target": 0.0,
+              "auto_share": 0.5454205502526671
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.0830391952036745,
+              "over_target": 0.0,
+              "auto_share": 0.5852262773722626
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.0887457539505235,
+              "over_target": 0.19,
+              "auto_share": 0.586340258281864
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.07909943890099597,
+              "over_target": 0.0,
+              "auto_share": 0.5855586749017406
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.0872996552307305,
+              "over_target": 0.01,
+              "auto_share": 0.5860393037619315
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.09224603497065495,
+              "over_target": 0.2,
+              "auto_share": 0.5866827624929813
+            }
+          }
+        ],
+        "seq_first_unlock_median": 299.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.2
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.74,
+              "threshold_median": 0.905,
+              "risk_mean": 0.040486857415310926,
+              "over_target": 0.07,
+              "auto_share": 0.358966859430605
+            },
+            "peek": {
+              "reports": 0.74,
+              "threshold_median": 0.905,
+              "risk_mean": 0.040486857415310926,
+              "over_target": 0.07,
+              "auto_share": 0.358966859430605
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.75,
+              "threshold_median": 0.89,
+              "risk_mean": 0.041915660263061774,
+              "over_target": 0.04,
+              "auto_share": 0.3790302491103203
+            },
+            "peek": {
+              "reports": 0.83,
+              "threshold_median": 0.88,
+              "risk_mean": 0.0514818447401683,
+              "over_target": 0.08,
+              "auto_share": 0.4298098309608541
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.92,
+              "threshold_median": 0.875,
+              "risk_mean": 0.05699631863725463,
+              "over_target": 0.03,
+              "auto_share": 0.49040369217081853
+            },
+            "peek": {
+              "reports": 0.97,
+              "threshold_median": 0.81,
+              "risk_mean": 0.06682257635501707,
+              "over_target": 0.1,
+              "auto_share": 0.526119884341637
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.06925051878984259,
+              "over_target": 0.01,
+              "auto_share": 0.5547842526690392
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.07698067709697955,
+              "over_target": 0.1,
+              "auto_share": 0.5594984430604983
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.07656118557601195,
+              "over_target": 0.01,
+              "auto_share": 0.5640313612099644
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.08287653723334967,
+              "over_target": 0.11,
+              "auto_share": 0.566665925266904
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.99,
+              "threshold_median": 0.87,
+              "risk_mean": 0.06081546031525281,
+              "over_target": 0.0,
+              "auto_share": 0.5484931049822065
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.775,
+              "risk_mean": 0.08169808506438292,
+              "over_target": 0.01,
+              "auto_share": 0.5674621886120996
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.0874683614742728,
+              "over_target": 0.11,
+              "auto_share": 0.5696330071174377
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.07744507063809283,
+              "over_target": 0.0,
+              "auto_share": 0.5649332740213524
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.08629889843329792,
+              "over_target": 0.0,
+              "auto_share": 0.5700733985765125
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.0902759612940598,
+              "over_target": 0.11,
+              "auto_share": 0.5712866992882562
+            }
+          }
+        ],
+        "seq_first_unlock_median": 291.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.11
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 1311,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.64,
+              "threshold_median": 0.895,
+              "risk_mean": 0.037643710438071666,
+              "over_target": 0.08,
+              "auto_share": 0.32290358744394626
+            },
+            "peek": {
+              "reports": 0.64,
+              "threshold_median": 0.895,
+              "risk_mean": 0.037643710438071666,
+              "over_target": 0.08,
+              "auto_share": 0.32290358744394626
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.76,
+              "threshold_median": 0.89,
+              "risk_mean": 0.043739110495020016,
+              "over_target": 0.04,
+              "auto_share": 0.4044843049327354
+            },
+            "peek": {
+              "reports": 0.84,
+              "threshold_median": 0.86,
+              "risk_mean": 0.05337903450446469,
+              "over_target": 0.09,
+              "auto_share": 0.4560190582959641
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.89,
+              "threshold_median": 0.85,
+              "risk_mean": 0.055961091533761824,
+              "over_target": 0.02,
+              "auto_share": 0.4919641255605381
+            },
+            "peek": {
+              "reports": 0.96,
+              "threshold_median": 0.82,
+              "risk_mean": 0.06592847774218215,
+              "over_target": 0.1,
+              "auto_share": 0.5352623318385651
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.98,
+              "threshold_median": 0.82,
+              "risk_mean": 0.06532792808370574,
+              "over_target": 0.01,
+              "auto_share": 0.5547825112107624
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.07429490516558433,
+              "over_target": 0.11,
+              "auto_share": 0.5692499999999999
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.01,
+              "threshold_median": 0.9,
+              "risk_mean": 0.00048654244306418215,
+              "over_target": 0.0,
+              "auto_share": 0.005414798206278026
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.0753589669976486,
+              "over_target": 0.02,
+              "auto_share": 0.5740414798206277
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.755,
+              "risk_mean": 0.08107993213735527,
+              "over_target": 0.12,
+              "auto_share": 0.5760896860986547
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.99,
+              "threshold_median": 0.84,
+              "risk_mean": 0.061563754525692155,
+              "over_target": 0.0,
+              "auto_share": 0.5610414798206278
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.08218297352651646,
+              "over_target": 0.01,
+              "auto_share": 0.5764091928251122
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.08686513920818358,
+              "over_target": 0.13,
+              "auto_share": 0.5778038116591927
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.07830247096816689,
+              "over_target": 0.0,
+              "auto_share": 0.5753811659192825
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.0870123519702206,
+              "over_target": 0.0,
+              "auto_share": 0.5778576233183856
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.66,
+              "risk_mean": 0.09050292899128566,
+              "over_target": 0.13,
+              "auto_share": 0.5790280269058296
+            }
+          }
+        ],
+        "seq_first_unlock_median": 292.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.13
+      }
+    ]
+  },
+  "hard_hat_workers": {
+    "photo": [
+      {
+        "alpha": 0.2,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.99,
+              "threshold_median": 0.91,
+              "risk_mean": 0.033088975132959615,
+              "over_target": 0.0,
+              "auto_share": 0.5084240937153713
+            },
+            "peek": {
+              "reports": 0.99,
+              "threshold_median": 0.91,
+              "risk_mean": 0.033088975132959615,
+              "over_target": 0.0,
+              "auto_share": 0.5084240937153713
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.88,
+              "risk_mean": 0.062413396578985196,
+              "over_target": 0.0,
+              "auto_share": 0.7107586670888081
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09387810838004888,
+              "over_target": 0.02,
+              "auto_share": 0.7999525091024219
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09387810838004888,
+              "over_target": 0.02,
+              "auto_share": 0.7999525091024219
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09775046715538306,
+              "over_target": 0.0,
+              "auto_share": 0.8150585721070129
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.11767572229409229,
+              "over_target": 0.01,
+              "auto_share": 0.8502232072186163
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.12279430789133247,
+              "over_target": 0.03,
+              "auto_share": 0.8564112711730252
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.12502802932298404,
+              "over_target": 0.0,
+              "auto_share": 0.8647839164160201
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.14548081069426477,
+              "over_target": 0.03,
+              "auto_share": 0.8907927022320721
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.15044415696420874,
+              "over_target": 0.06,
+              "auto_share": 0.8964274972296974
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.14500790570648267,
+              "over_target": 0.0,
+              "auto_share": 0.8905223998733574
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.1589291361218916,
+              "over_target": 0.03,
+              "auto_share": 0.9066819692892196
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.16455081213166597,
+              "over_target": 0.07,
+              "auto_share": 0.9130556435016621
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.1573091849935317,
+              "over_target": 0.0,
+              "auto_share": 0.9048298242836788
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.16886445306885153,
+              "over_target": 0.02,
+              "auto_share": 0.9184870191546622
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.17424177087825213,
+              "over_target": 0.07,
+              "auto_share": 0.9244625613424095
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.07
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.03717119448037948,
+              "over_target": 0.0,
+              "auto_share": 0.5141898714206833
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.03717119448037948,
+              "over_target": 0.0,
+              "auto_share": 0.5141898714206833
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.88,
+              "risk_mean": 0.06700014374011785,
+              "over_target": 0.01,
+              "auto_share": 0.702848071310247
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09931148483541757,
+              "over_target": 0.04,
+              "auto_share": 0.7933927585390866
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.10027741842748314,
+              "over_target": 0.04,
+              "auto_share": 0.7953029107833085
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.845,
+              "risk_mean": 0.09908006324565187,
+              "over_target": 0.02,
+              "auto_share": 0.8025254397728169
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.825,
+              "risk_mean": 0.11704901538019262,
+              "over_target": 0.02,
+              "auto_share": 0.8369523546580422
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.12452493891044991,
+              "over_target": 0.05,
+              "auto_share": 0.8468695274907313
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.815,
+              "risk_mean": 0.12250251545206269,
+              "over_target": 0.02,
+              "auto_share": 0.8475589650548236
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.785,
+              "risk_mean": 0.14039959752766998,
+              "over_target": 0.0,
+              "auto_share": 0.8731442770371537
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.14683915480810694,
+              "over_target": 0.05,
+              "auto_share": 0.8803029107833084
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.14105792726750038,
+              "over_target": 0.02,
+              "auto_share": 0.8747870158554862
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.15318096880839438,
+              "over_target": 0.01,
+              "auto_share": 0.8897365307249347
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.16000862440707198,
+              "over_target": 0.06,
+              "auto_share": 0.8970888222765636
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.15449475348569786,
+              "over_target": 0.02,
+              "auto_share": 0.8915898871972864
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.165618801207417,
+              "over_target": 0.0,
+              "auto_share": 0.9041811942888698
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.1710392410521777,
+              "over_target": 0.06,
+              "auto_share": 0.9097925376666401
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.02,
+        "peek_ever_over_target": 0.06
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.032091418714963356,
+              "over_target": 0.0,
+              "auto_share": 0.47243948006519054
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.032091418714963356,
+              "over_target": 0.0,
+              "auto_share": 0.47243948006519054
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.87,
+              "risk_mean": 0.06582866177950267,
+              "over_target": 0.0,
+              "auto_share": 0.6998072107166992
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.835,
+              "risk_mean": 0.09441713382204972,
+              "over_target": 0.02,
+              "auto_share": 0.7892904559367173
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.83,
+              "risk_mean": 0.09622825930717262,
+              "over_target": 0.02,
+              "auto_share": 0.7926108041499385
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09344545062526947,
+              "over_target": 0.0,
+              "auto_share": 0.7945375044719163
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.815,
+              "risk_mean": 0.109391979301423,
+              "over_target": 0.0,
+              "auto_share": 0.8306260682911316
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.11591346844904411,
+              "over_target": 0.02,
+              "auto_share": 0.8401462813531027
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.12159120310478652,
+              "over_target": 0.0,
+              "auto_share": 0.852888261716421
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.14043122035360067,
+              "over_target": 0.04,
+              "auto_share": 0.8796442342091665
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.14379042690815005,
+              "over_target": 0.06,
+              "auto_share": 0.883893548515324
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.14183987350869626,
+              "over_target": 0.0,
+              "auto_share": 0.8830651508526455
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.1563863734368262,
+              "over_target": 0.02,
+              "auto_share": 0.9004893270262748
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.1604024723300273,
+              "over_target": 0.07,
+              "auto_share": 0.9048702150494893
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.1563317521920368,
+              "over_target": 0.0,
+              "auto_share": 0.9009691139643041
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.16828374299266924,
+              "over_target": 0.02,
+              "auto_share": 0.9138223953571569
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.17206267069138995,
+              "over_target": 0.08,
+              "auto_share": 0.9178991930675358
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.08
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.029614776484116718,
+              "over_target": 0.0,
+              "auto_share": 0.4782268502176727
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.91,
+              "risk_mean": 0.029614776484116718,
+              "over_target": 0.0,
+              "auto_share": 0.4782268502176727
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.88,
+              "risk_mean": 0.05790858128503666,
+              "over_target": 0.0,
+              "auto_share": 0.6723492959956073
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.08904125341382779,
+              "over_target": 0.02,
+              "auto_share": 0.7826148174295013
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.08933879545781227,
+              "over_target": 0.02,
+              "auto_share": 0.7832517551084441
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.09276843467011642,
+              "over_target": 0.0,
+              "auto_share": 0.7992065733223517
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.825,
+              "risk_mean": 0.11302572948109818,
+              "over_target": 0.01,
+              "auto_share": 0.8362889751735497
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.11608451918930573,
+              "over_target": 0.02,
+              "auto_share": 0.8411691571557438
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.12067414115279576,
+              "over_target": 0.0,
+              "auto_share": 0.8506239949798013
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.14043553255713667,
+              "over_target": 0.02,
+              "auto_share": 0.8768062909361884
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.785,
+              "risk_mean": 0.14299410665516746,
+              "over_target": 0.04,
+              "auto_share": 0.8797317331450756
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.785,
+              "risk_mean": 0.14147189880695704,
+              "over_target": 0.0,
+              "auto_share": 0.8792748166450954
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.15668822768434668,
+              "over_target": 0.02,
+              "auto_share": 0.8965113542769737
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.16021992238033633,
+              "over_target": 0.04,
+              "auto_share": 0.900383574538181
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.1565947966077332,
+              "over_target": 0.0,
+              "auto_share": 0.8962736792563831
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.16834267644099465,
+              "over_target": 0.0,
+              "auto_share": 0.909474055771267
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.1730530401034929,
+              "over_target": 0.04,
+              "auto_share": 0.9147601678628858
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.04
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.03162282593071726,
+              "over_target": 0.0,
+              "auto_share": 0.45750087640712034
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.92,
+              "risk_mean": 0.03162282593071726,
+              "over_target": 0.0,
+              "auto_share": 0.45750087640712034
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.89,
+              "risk_mean": 0.059666522926548796,
+              "over_target": 0.01,
+              "auto_share": 0.6542258403770498
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.09143165157395432,
+              "over_target": 0.02,
+              "auto_share": 0.7623359171113622
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.09154233146471183,
+              "over_target": 0.02,
+              "auto_share": 0.7627628247575273
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.0953816300129366,
+              "over_target": 0.01,
+              "auto_share": 0.7798056323764265
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.83,
+              "risk_mean": 0.11234583872358778,
+              "over_target": 0.0,
+              "auto_share": 0.8167993611965878
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.11887451487710222,
+              "over_target": 0.02,
+              "auto_share": 0.8263463560939508
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.12201811125485124,
+              "over_target": 0.01,
+              "auto_share": 0.8369111517937132
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.1408538163001294,
+              "over_target": 0.01,
+              "auto_share": 0.8663311650371986
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.14524938910449908,
+              "over_target": 0.03,
+              "auto_share": 0.8717111362131422
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.14324421446025587,
+              "over_target": 0.01,
+              "auto_share": 0.8705464885288048
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.15747736093143594,
+              "over_target": 0.0,
+              "auto_share": 0.8889502590269934
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.16270950122179098,
+              "over_target": 0.03,
+              "auto_share": 0.8947579168776535
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.77,
+              "risk_mean": 0.15897369555843036,
+              "over_target": 0.01,
+              "auto_share": 0.8912059361975616
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.1707575104211585,
+              "over_target": 0.03,
+              "auto_share": 0.9048381568184474
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.17466867902831673,
+              "over_target": 0.06,
+              "auto_share": 0.9089783040548434
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.01,
+        "peek_ever_over_target": 0.06
+      }
+    ],
+    "detection": [
+      {
+        "alpha": 0.1,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.85,
+              "threshold_median": 0.82,
+              "risk_mean": 0.04359944954241485,
+              "over_target": 0.0,
+              "auto_share": 0.6306090707614372
+            },
+            "peek": {
+              "reports": 0.85,
+              "threshold_median": 0.82,
+              "risk_mean": 0.04359944954241485,
+              "over_target": 0.0,
+              "auto_share": 0.6306090707614372
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.97,
+              "threshold_median": 0.81,
+              "risk_mean": 0.04803217700054325,
+              "over_target": 0.0,
+              "auto_share": 0.709021291752414
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.05955821216100692,
+              "over_target": 0.0,
+              "auto_share": 0.7669384201361404
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.055994932455569545,
+              "over_target": 0.0,
+              "auto_share": 0.7742575589678644
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.715,
+              "risk_mean": 0.0679662397585213,
+              "over_target": 0.0,
+              "auto_share": 0.7976614690517649
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.06789022962019688,
+              "over_target": 0.0,
+              "auto_share": 0.8054104005065694
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.07652338121199002,
+              "over_target": 0.0,
+              "auto_share": 0.8129412695899951
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.07452964520604455,
+              "over_target": 0.0,
+              "auto_share": 0.8132392749722968
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.615,
+              "risk_mean": 0.0813645259077727,
+              "over_target": 0.0,
+              "auto_share": 0.8182859743549151
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.0508595049350932,
+              "over_target": 0.0,
+              "auto_share": 0.7867409371537123
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.63,
+              "risk_mean": 0.08033243397776033,
+              "over_target": 0.0,
+              "auto_share": 0.8184969130916574
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.59,
+              "risk_mean": 0.08580815185885449,
+              "over_target": 0.0,
+              "auto_share": 0.8222668988443881
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.07377826323142206,
+              "over_target": 0.0,
+              "auto_share": 0.8131387525724236
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.6,
+              "risk_mean": 0.08603985574873672,
+              "over_target": 0.0,
+              "auto_share": 0.8234074719012189
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.56,
+              "risk_mean": 0.08999797289502688,
+              "over_target": 0.0,
+              "auto_share": 0.8258690834256767
+            }
+          }
+        ],
+        "seq_first_unlock_median": 291.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.0
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.74,
+              "threshold_median": 0.8,
+              "risk_mean": 0.038283031895089484,
+              "over_target": 0.07,
+              "auto_share": 0.5563414056953538
+            },
+            "peek": {
+              "reports": 0.74,
+              "threshold_median": 0.8,
+              "risk_mean": 0.038283031895089484,
+              "over_target": 0.07,
+              "auto_share": 0.5563414056953538
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.95,
+              "threshold_median": 0.77,
+              "risk_mean": 0.05341033913311825,
+              "over_target": 0.04,
+              "auto_share": 0.7164912834266781
+            },
+            "peek": {
+              "reports": 0.97,
+              "threshold_median": 0.76,
+              "risk_mean": 0.05853589171039327,
+              "over_target": 0.08,
+              "auto_share": 0.7492742762483238
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.99,
+              "threshold_median": 0.76,
+              "risk_mean": 0.05973671210618565,
+              "over_target": 0.06,
+              "auto_share": 0.76821014435592
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.725,
+              "risk_mean": 0.06767698325532613,
+              "over_target": 0.1,
+              "auto_share": 0.7984112960479607
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.06395610291163013,
+              "over_target": 0.04,
+              "auto_share": 0.8011860061528752
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.675,
+              "risk_mean": 0.07381681096840685,
+              "over_target": 0.12,
+              "auto_share": 0.8167401593436933
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.07337285273354026,
+              "over_target": 0.02,
+              "auto_share": 0.8201976019562989
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.65,
+              "risk_mean": 0.07984885123517466,
+              "over_target": 0.12,
+              "auto_share": 0.8266186794983041
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.05049639727619037,
+              "over_target": 0.0,
+              "auto_share": 0.787978622702532
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.65,
+              "risk_mean": 0.07879376605126712,
+              "over_target": 0.0,
+              "auto_share": 0.8261213220793562
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.62,
+              "risk_mean": 0.08432514861902649,
+              "over_target": 0.12,
+              "auto_share": 0.8312475349057347
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.07284157208131392,
+              "over_target": 0.0,
+              "auto_share": 0.8207182298651102
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.615,
+              "risk_mean": 0.08517358616241162,
+              "over_target": 0.01,
+              "auto_share": 0.8317370040230339
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.59,
+              "risk_mean": 0.08889947968247947,
+              "over_target": 0.13,
+              "auto_share": 0.8353466908574585
+            }
+          }
+        ],
+        "seq_first_unlock_median": 293.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.13
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.72,
+              "threshold_median": 0.8,
+              "risk_mean": 0.038497277029895104,
+              "over_target": 0.0,
+              "auto_share": 0.5330850260364908
+            },
+            "peek": {
+              "reports": 0.72,
+              "threshold_median": 0.8,
+              "risk_mean": 0.038497277029895104,
+              "over_target": 0.0,
+              "auto_share": 0.5330850260364908
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.96,
+              "threshold_median": 0.8,
+              "risk_mean": 0.049121152444942764,
+              "over_target": 0.0,
+              "auto_share": 0.6736880391143617
+            },
+            "peek": {
+              "reports": 0.99,
+              "threshold_median": 0.76,
+              "risk_mean": 0.05717441701759724,
+              "over_target": 0.0,
+              "auto_share": 0.7316766705092022
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.98,
+              "threshold_median": 0.78,
+              "risk_mean": 0.05473935809900063,
+              "over_target": 0.0,
+              "auto_share": 0.7435787256032118
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.695,
+              "risk_mean": 0.06708439456064,
+              "over_target": 0.0,
+              "auto_share": 0.7906395834161465
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.06246637507543336,
+              "over_target": 0.0,
+              "auto_share": 0.794381285526891
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.07443739234453155,
+              "over_target": 0.0,
+              "auto_share": 0.8122761060539808
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.07343815786653014,
+              "over_target": 0.0,
+              "auto_share": 0.8128417537862225
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.62,
+              "risk_mean": 0.08096935363342835,
+              "over_target": 0.0,
+              "auto_share": 0.8211253329093293
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.99,
+              "threshold_median": 0.78,
+              "risk_mean": 0.04976523230679548,
+              "over_target": 0.0,
+              "auto_share": 0.7718674722741186
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.08017395268030737,
+              "over_target": 0.0,
+              "auto_share": 0.8222912111937037
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.595,
+              "risk_mean": 0.08617914935083512,
+              "over_target": 0.0,
+              "auto_share": 0.8275780100965936
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.07322789112384318,
+              "over_target": 0.0,
+              "auto_share": 0.8148646499980126
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.6,
+              "risk_mean": 0.08520503366460161,
+              "over_target": 0.0,
+              "auto_share": 0.8273999284493382
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.57,
+              "risk_mean": 0.08971428451066397,
+              "over_target": 0.0,
+              "auto_share": 0.8311388480343445
+            }
+          }
+        ],
+        "seq_first_unlock_median": 302.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.0
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.77,
+              "threshold_median": 0.81,
+              "risk_mean": 0.03808776140773822,
+              "over_target": 0.0,
+              "auto_share": 0.5756932188100561
+            },
+            "peek": {
+              "reports": 0.77,
+              "threshold_median": 0.81,
+              "risk_mean": 0.03808776140773822,
+              "over_target": 0.0,
+              "auto_share": 0.5756932188100561
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.96,
+              "threshold_median": 0.82,
+              "risk_mean": 0.04634988205371362,
+              "over_target": 0.0,
+              "auto_share": 0.6820845589677218
+            },
+            "peek": {
+              "reports": 0.98,
+              "threshold_median": 0.79,
+              "risk_mean": 0.054682391272611965,
+              "over_target": 0.0,
+              "auto_share": 0.7417260854218144
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.97,
+              "threshold_median": 0.78,
+              "risk_mean": 0.05319469656838624,
+              "over_target": 0.0,
+              "auto_share": 0.7403576891398989
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.0637361420275922,
+              "over_target": 0.0,
+              "auto_share": 0.7862744636623915
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.06543458466305223,
+              "over_target": 0.0,
+              "auto_share": 0.7974514648782212
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.0728689008572655,
+              "over_target": 0.0,
+              "auto_share": 0.8096105424167548
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.675,
+              "risk_mean": 0.07394081559618015,
+              "over_target": 0.0,
+              "auto_share": 0.8155218260971878
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.63,
+              "risk_mean": 0.08046618244729667,
+              "over_target": 0.0,
+              "auto_share": 0.8222022198690042
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.05066188290115641,
+              "over_target": 0.0,
+              "auto_share": 0.7830587912303408
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.08042586922985649,
+              "over_target": 0.0,
+              "auto_share": 0.8233878495509274
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.62,
+              "risk_mean": 0.0848911298928759,
+              "over_target": 0.0,
+              "auto_share": 0.8269561124838216
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.0748423742193155,
+              "over_target": 0.0,
+              "auto_share": 0.81890183158803
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.6,
+              "risk_mean": 0.08599905479119901,
+              "over_target": 0.0,
+              "auto_share": 0.8279809389339924
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.58,
+              "risk_mean": 0.08923589794642436,
+              "over_target": 0.0,
+              "auto_share": 0.8303710240420443
+            }
+          }
+        ],
+        "seq_first_unlock_median": 289.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.0
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 6957,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.66,
+              "threshold_median": 0.8,
+              "risk_mean": 0.036318008645148454,
+              "over_target": 0.04,
+              "auto_share": 0.4907163167530089
+            },
+            "peek": {
+              "reports": 0.66,
+              "threshold_median": 0.8,
+              "risk_mean": 0.036318008645148454,
+              "over_target": 0.04,
+              "auto_share": 0.4907163167530089
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.93,
+              "threshold_median": 0.8,
+              "risk_mean": 0.04754680320528213,
+              "over_target": 0.05,
+              "auto_share": 0.6564694426050716
+            },
+            "peek": {
+              "reports": 0.94,
+              "threshold_median": 0.765,
+              "risk_mean": 0.05447559422967366,
+              "over_target": 0.08,
+              "auto_share": 0.688432984068866
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.99,
+              "threshold_median": 0.79,
+              "risk_mean": 0.054946067515035966,
+              "over_target": 0.03,
+              "auto_share": 0.7359338604759865
+            },
+            "peek": {
+              "reports": 0.99,
+              "threshold_median": 0.74,
+              "risk_mean": 0.0645829309939794,
+              "over_target": 0.09,
+              "auto_share": 0.7630012074942546
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.06462710585833802,
+              "over_target": 0.02,
+              "auto_share": 0.7808432984068865
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.07315965638369322,
+              "over_target": 0.09,
+              "auto_share": 0.7947119541931211
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.07345559798011232,
+              "over_target": 0.03,
+              "auto_share": 0.7978436489697348
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.08054107785721207,
+              "over_target": 0.12,
+              "auto_share": 0.8046278191095704
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.04982007590638258,
+              "over_target": 0.0,
+              "auto_share": 0.7615475402173492
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.675,
+              "risk_mean": 0.0802138485470732,
+              "over_target": 0.04,
+              "auto_share": 0.8053881509757334
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.645,
+              "risk_mean": 0.08565031470705411,
+              "over_target": 0.15,
+              "auto_share": 0.8099104117165895
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.07412577912143015,
+              "over_target": 0.0,
+              "auto_share": 0.8001203599111907
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.08605089087266077,
+              "over_target": 0.02,
+              "auto_share": 0.8104681961593893
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.605,
+              "risk_mean": 0.08988015391558711,
+              "over_target": 0.15,
+              "auto_share": 0.8136532543917735
+            }
+          }
+        ],
+        "seq_first_unlock_median": 298.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.15
+      }
+    ]
+  },
+  "shwd": {
+    "photo": [
+      {
+        "alpha": 0.2,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.03119648737650933,
+              "over_target": 0.0,
+              "auto_share": 0.44193778110944537
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.03119648737650933,
+              "over_target": 0.0,
+              "auto_share": 0.44193778110944537
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.9,
+              "risk_mean": 0.057683863885839744,
+              "over_target": 0.0,
+              "auto_share": 0.6388768115942028
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.09209293816319063,
+              "over_target": 0.03,
+              "auto_share": 0.7652873563218389
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.09348701061105012,
+              "over_target": 0.03,
+              "auto_share": 0.769931284357821
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.09630076838638861,
+              "over_target": 0.01,
+              "auto_share": 0.7864730134932533
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.11809001097694843,
+              "over_target": 0.03,
+              "auto_share": 0.8368590704647676
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.12197950969630444,
+              "over_target": 0.04,
+              "auto_share": 0.844371564217891
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.12170874496889866,
+              "over_target": 0.01,
+              "auto_share": 0.8461481759120437
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.1441858763263813,
+              "over_target": 0.01,
+              "auto_share": 0.8911931534232886
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.1475045737285035,
+              "over_target": 0.05,
+              "auto_share": 0.8971989005497254
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.1445115257958288,
+              "over_target": 0.01,
+              "auto_share": 0.8923888055972015
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.16115989754848153,
+              "over_target": 0.02,
+              "auto_share": 0.9227823588205898
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.16514818880351265,
+              "over_target": 0.07,
+              "auto_share": 0.9299512743628187
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.15984998170508602,
+              "over_target": 0.01,
+              "auto_share": 0.9204135432283859
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.17190267105744605,
+              "over_target": 0.01,
+              "auto_share": 0.9423213393303348
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.62,
+              "risk_mean": 0.17592389315770215,
+              "over_target": 0.08,
+              "auto_share": 0.9494677661169413
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.01,
+        "peek_ever_over_target": 0.08
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.040819612147822905,
+              "over_target": 0.02,
+              "auto_share": 0.4855001892266936
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.040819612147822905,
+              "over_target": 0.02,
+              "auto_share": 0.4855001892266936
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.89,
+              "risk_mean": 0.06735821441639224,
+              "over_target": 0.02,
+              "auto_share": 0.6652453639460072
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.845,
+              "risk_mean": 0.10115623856567872,
+              "over_target": 0.05,
+              "auto_share": 0.7990828812917876
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.84,
+              "risk_mean": 0.1023600439077936,
+              "over_target": 0.06,
+              "auto_share": 0.8013775703292544
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.10042078302231977,
+              "over_target": 0.02,
+              "auto_share": 0.804000252302258
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.11720087815587267,
+              "over_target": 0.02,
+              "auto_share": 0.8489605146966064
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.1259165751920966,
+              "over_target": 0.07,
+              "auto_share": 0.8658786426138512
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.79,
+              "risk_mean": 0.12341748993779728,
+              "over_target": 0.02,
+              "auto_share": 0.8636394600731676
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.735,
+              "risk_mean": 0.14223929747530184,
+              "over_target": 0.02,
+              "auto_share": 0.9016462722341363
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.14824734723746796,
+              "over_target": 0.07,
+              "auto_share": 0.9120499558471049
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.1446176362971094,
+              "over_target": 0.02,
+              "auto_share": 0.9063920777090955
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.1579399926820344,
+              "over_target": 0.0,
+              "auto_share": 0.9300655985871074
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.66,
+              "risk_mean": 0.16352360043907793,
+              "over_target": 0.07,
+              "auto_share": 0.9394146587611959
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.1575557994877424,
+              "over_target": 0.02,
+              "auto_share": 0.9289214078466002
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.63,
+              "risk_mean": 0.16800951335528722,
+              "over_target": 0.0,
+              "auto_share": 0.9477633404818973
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.61,
+              "risk_mean": 0.17285034760336626,
+              "over_target": 0.07,
+              "auto_share": 0.9558357512299734
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.02,
+        "peek_ever_over_target": 0.07
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.02657153311379437,
+              "over_target": 0.0,
+              "auto_share": 0.41396919580861
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.02657153311379437,
+              "over_target": 0.0,
+              "auto_share": 0.41396919580861
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.9,
+              "risk_mean": 0.0566995975118917,
+              "over_target": 0.0,
+              "auto_share": 0.6212511046585028
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.08965239663373582,
+              "over_target": 0.01,
+              "auto_share": 0.7479787905567479
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.08995975118916939,
+              "over_target": 0.01,
+              "auto_share": 0.7487817194798637
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.855,
+              "risk_mean": 0.09369557263080865,
+              "over_target": 0.0,
+              "auto_share": 0.7678866304759501
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.1155872667398463,
+              "over_target": 0.0,
+              "auto_share": 0.8232988259058202
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.11994511525795827,
+              "over_target": 0.01,
+              "auto_share": 0.8329945713925011
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.11904866447127697,
+              "over_target": 0.0,
+              "auto_share": 0.8333505870470901
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.1398975484815221,
+              "over_target": 0.0,
+              "auto_share": 0.8791655094053783
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.14292352725942187,
+              "over_target": 0.01,
+              "auto_share": 0.8846736523166266
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.141752652762532,
+              "over_target": 0.0,
+              "auto_share": 0.8838126499179397
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.1573874862788145,
+              "over_target": 0.0,
+              "auto_share": 0.9159361191768716
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.16004756677643614,
+              "over_target": 0.01,
+              "auto_share": 0.9206829945713925
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.15709842663739482,
+              "over_target": 0.0,
+              "auto_share": 0.9167668223709127
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.65,
+              "risk_mean": 0.1694474935967801,
+              "over_target": 0.0,
+              "auto_share": 0.9398952152505996
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.17203439443834614,
+              "over_target": 0.01,
+              "auto_share": 0.9436763034970332
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.01
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.03301866081229418,
+              "over_target": 0.0,
+              "auto_share": 0.42097014925373133
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.03301866081229418,
+              "over_target": 0.0,
+              "auto_share": 0.42097014925373133
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.9,
+              "risk_mean": 0.06742773508964507,
+              "over_target": 0.01,
+              "auto_share": 0.6538333333333333
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.09690815953165019,
+              "over_target": 0.02,
+              "auto_share": 0.7579639303482586
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.09728137577753385,
+              "over_target": 0.02,
+              "auto_share": 0.758915422885572
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.10122941822173435,
+              "over_target": 0.01,
+              "auto_share": 0.7784340796019901
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.11818880351262347,
+              "over_target": 0.01,
+              "auto_share": 0.8202574626865672
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.12451518477863154,
+              "over_target": 0.03,
+              "auto_share": 0.8322499999999999
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.805,
+              "risk_mean": 0.12575557994877426,
+              "over_target": 0.02,
+              "auto_share": 0.8412176616915424
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.1424771313574826,
+              "over_target": 0.02,
+              "auto_share": 0.8765820895522388
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.14783388218075375,
+              "over_target": 0.03,
+              "auto_share": 0.88543407960199
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.75,
+              "risk_mean": 0.14386754482253936,
+              "over_target": 0.02,
+              "auto_share": 0.8805062189054728
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.705,
+              "risk_mean": 0.15755214050493963,
+              "over_target": 0.01,
+              "auto_share": 0.9045000000000001
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.16189901207464327,
+              "over_target": 0.03,
+              "auto_share": 0.9106504975124379
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.15767654592023417,
+              "over_target": 0.02,
+              "auto_share": 0.9058271144278608
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.1678777899743871,
+              "over_target": 0.0,
+              "auto_share": 0.9205398009950249
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.1720160995243322,
+              "over_target": 0.03,
+              "auto_share": 0.9260373134328357
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.02,
+        "peek_ever_over_target": 0.03
+      },
+      {
+        "alpha": 0.2,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "peek": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.031858763263812664,
+              "over_target": 0.0,
+              "auto_share": 0.4557645585472761
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.93,
+              "risk_mean": 0.031858763263812664,
+              "over_target": 0.0,
+              "auto_share": 0.4557645585472761
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.9,
+              "risk_mean": 0.05795096963044273,
+              "over_target": 0.0,
+              "auto_share": 0.6495153412648716
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.08839370654957922,
+              "over_target": 0.0,
+              "auto_share": 0.7688315591734504
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.86,
+              "risk_mean": 0.08901207464324917,
+              "over_target": 0.0,
+              "auto_share": 0.7700112711333752
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.85,
+              "risk_mean": 0.0950567142334431,
+              "over_target": 0.0,
+              "auto_share": 0.7932222917971196
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.815,
+              "risk_mean": 0.11539699963410172,
+              "over_target": 0.01,
+              "auto_share": 0.8428202880400752
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.1174423710208562,
+              "over_target": 0.01,
+              "auto_share": 0.8470269254852849
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.805,
+              "risk_mean": 0.12151481888035125,
+              "over_target": 0.0,
+              "auto_share": 0.8579561678146526
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.14163190633004022,
+              "over_target": 0.01,
+              "auto_share": 0.8983581715716968
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.14349432857665567,
+              "over_target": 0.02,
+              "auto_share": 0.9018334376956793
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.14375411635565313,
+              "over_target": 0.0,
+              "auto_share": 0.9032460864120224
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.15846688620563484,
+              "over_target": 0.01,
+              "auto_share": 0.9310131496556042
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.665,
+              "risk_mean": 0.1605890962312477,
+              "over_target": 0.03,
+              "auto_share": 0.9345660613650594
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.69,
+              "risk_mean": 0.15730332967435054,
+              "over_target": 0.0,
+              "auto_share": 0.9298948027551657
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.65,
+              "risk_mean": 0.16779363336992315,
+              "over_target": 0.01,
+              "auto_share": 0.9476130244207888
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.1704903036955726,
+              "over_target": 0.03,
+              "auto_share": 0.9517545397620536
+            }
+          }
+        ],
+        "seq_first_unlock_median": 26.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.03
+      }
+    ],
+    "detection": [
+      {
+        "alpha": 0.1,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.83,
+              "threshold_median": 0.85,
+              "risk_mean": 0.04912146698422561,
+              "over_target": 0.19,
+              "auto_share": 0.5557896051974014
+            },
+            "peek": {
+              "reports": 0.83,
+              "threshold_median": 0.85,
+              "risk_mean": 0.04912146698422561,
+              "over_target": 0.19,
+              "auto_share": 0.5557896051974014
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.85,
+              "threshold_median": 0.88,
+              "risk_mean": 0.042034671155035265,
+              "over_target": 0.05,
+              "auto_share": 0.5351261869065468
+            },
+            "peek": {
+              "reports": 0.9,
+              "threshold_median": 0.805,
+              "risk_mean": 0.05727560930272861,
+              "over_target": 0.2,
+              "auto_share": 0.6182421289355324
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.9,
+              "threshold_median": 0.85,
+              "risk_mean": 0.05119216801572128,
+              "over_target": 0.07,
+              "auto_share": 0.6123363318340831
+            },
+            "peek": {
+              "reports": 0.95,
+              "threshold_median": 0.78,
+              "risk_mean": 0.06678006741296375,
+              "over_target": 0.23,
+              "auto_share": 0.6802998500749627
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.94,
+              "threshold_median": 0.81,
+              "risk_mean": 0.06044673431828975,
+              "over_target": 0.06,
+              "auto_share": 0.6696339330334833
+            },
+            "peek": {
+              "reports": 0.98,
+              "threshold_median": 0.73,
+              "risk_mean": 0.07468182479504584,
+              "over_target": 0.24,
+              "auto_share": 0.717408795602199
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.78,
+              "risk_mean": 0.07051839313962224,
+              "over_target": 0.06,
+              "auto_share": 0.7280172413793103
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.08193055971882574,
+              "over_target": 0.26,
+              "auto_share": 0.7452348825587207
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.4,
+              "threshold_median": 0.89,
+              "risk_mean": 0.015703183607317442,
+              "over_target": 0.0,
+              "auto_share": 0.267619940029985
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.725,
+              "risk_mean": 0.07838281398223365,
+              "over_target": 0.03,
+              "auto_share": 0.7427873563218391
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.08768539603177049,
+              "over_target": 0.28,
+              "auto_share": 0.7558770614692654
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.06584602573593538,
+              "over_target": 0.0,
+              "auto_share": 0.720952023988006
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.08433615505471413,
+              "over_target": 0.03,
+              "auto_share": 0.752867316341829
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.66,
+              "risk_mean": 0.09201612170623286,
+              "over_target": 0.29,
+              "auto_share": 0.7630072463768116
+            }
+          }
+        ],
+        "seq_first_unlock_median": 408.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.29
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.83,
+              "threshold_median": 0.85,
+              "risk_mean": 0.05077788533511606,
+              "over_target": 0.18,
+              "auto_share": 0.5587536268449602
+            },
+            "peek": {
+              "reports": 0.83,
+              "threshold_median": 0.85,
+              "risk_mean": 0.05077788533511606,
+              "over_target": 0.18,
+              "auto_share": 0.5587536268449602
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.86,
+              "threshold_median": 0.81,
+              "risk_mean": 0.05333985950919809,
+              "over_target": 0.12,
+              "auto_share": 0.5856604011605904
+            },
+            "peek": {
+              "reports": 0.94,
+              "threshold_median": 0.795,
+              "risk_mean": 0.06216912275480043,
+              "over_target": 0.18,
+              "auto_share": 0.6497691434338339
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.92,
+              "threshold_median": 0.815,
+              "risk_mean": 0.054756605598530364,
+              "over_target": 0.06,
+              "auto_share": 0.6299053866532105
+            },
+            "peek": {
+              "reports": 0.99,
+              "threshold_median": 0.73,
+              "risk_mean": 0.07131574165465973,
+              "over_target": 0.21,
+              "auto_share": 0.7116752869938188
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.93,
+              "threshold_median": 0.77,
+              "risk_mean": 0.060964343508846136,
+              "over_target": 0.02,
+              "auto_share": 0.6723438879777974
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.685,
+              "risk_mean": 0.0771006733564004,
+              "over_target": 0.21,
+              "auto_share": 0.7400454144064591
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.98,
+              "threshold_median": 0.77,
+              "risk_mean": 0.06609679147785215,
+              "over_target": 0.03,
+              "auto_share": 0.7217825154535134
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.675,
+              "risk_mean": 0.08148816703695902,
+              "over_target": 0.21,
+              "auto_share": 0.7580875488835627
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.21,
+              "threshold_median": 0.88,
+              "risk_mean": 0.008636346717038884,
+              "over_target": 0.0,
+              "auto_share": 0.14216853790841427
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.73,
+              "risk_mean": 0.07632501092229713,
+              "over_target": 0.02,
+              "auto_share": 0.7551772423363188
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.65,
+              "risk_mean": 0.08683756250286573,
+              "over_target": 0.22,
+              "auto_share": 0.7668336066607797
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.8,
+              "risk_mean": 0.0646855125689707,
+              "over_target": 0.0,
+              "auto_share": 0.7384067112400655
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.68,
+              "risk_mean": 0.08187208475884716,
+              "over_target": 0.0,
+              "auto_share": 0.7632950674908543
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.09000813085229854,
+              "over_target": 0.22,
+              "auto_share": 0.7712173583953579
+            }
+          }
+        ],
+        "seq_first_unlock_median": 443.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.22
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.84,
+              "threshold_median": 0.87,
+              "risk_mean": 0.048287746252905404,
+              "over_target": 0.15,
+              "auto_share": 0.5341939149097336
+            },
+            "peek": {
+              "reports": 0.84,
+              "threshold_median": 0.87,
+              "risk_mean": 0.048287746252905404,
+              "over_target": 0.15,
+              "auto_share": 0.5341939149097336
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.84,
+              "threshold_median": 0.885,
+              "risk_mean": 0.04460540178892142,
+              "over_target": 0.11,
+              "auto_share": 0.5132142406261836
+            },
+            "peek": {
+              "reports": 0.93,
+              "threshold_median": 0.84,
+              "risk_mean": 0.059397111178086257,
+              "over_target": 0.21,
+              "auto_share": 0.6135399570761267
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.82,
+              "threshold_median": 0.835,
+              "risk_mean": 0.05067128139539422,
+              "over_target": 0.1,
+              "auto_share": 0.5623052644868073
+            },
+            "peek": {
+              "reports": 0.95,
+              "threshold_median": 0.78,
+              "risk_mean": 0.06869412014581479,
+              "over_target": 0.23,
+              "auto_share": 0.6738745107940918
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.93,
+              "threshold_median": 0.81,
+              "risk_mean": 0.060394489279899745,
+              "over_target": 0.06,
+              "auto_share": 0.6618255270799142
+            },
+            "peek": {
+              "reports": 0.98,
+              "threshold_median": 0.725,
+              "risk_mean": 0.0774814428724227,
+              "over_target": 0.25,
+              "auto_share": 0.7203080419138997
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.99,
+              "threshold_median": 0.81,
+              "risk_mean": 0.06812766934735624,
+              "over_target": 0.01,
+              "auto_share": 0.717824769599798
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.08287483319274608,
+              "over_target": 0.26,
+              "auto_share": 0.7471076884231789
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.11,
+              "threshold_median": 0.89,
+              "risk_mean": 0.00457721545873441,
+              "over_target": 0.0,
+              "auto_share": 0.07214366872869586
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.74,
+              "risk_mean": 0.07684422256465641,
+              "over_target": 0.03,
+              "auto_share": 0.7419088498926903
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.67,
+              "risk_mean": 0.08790501973661832,
+              "over_target": 0.28,
+              "auto_share": 0.7573778563312713
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.82,
+              "risk_mean": 0.06497217679629498,
+              "over_target": 0.0,
+              "auto_share": 0.7212889786643101
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.715,
+              "risk_mean": 0.08288341847022902,
+              "over_target": 0.01,
+              "auto_share": 0.7529049362454237
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.65,
+              "risk_mean": 0.09217682540985425,
+              "over_target": 0.29,
+              "auto_share": 0.7644400959474814
+            }
+          }
+        ],
+        "seq_first_unlock_median": 450.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.29
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.83,
+              "threshold_median": 0.83,
+              "risk_mean": 0.05086190523572305,
+              "over_target": 0.13,
+              "auto_share": 0.5377313432835822
+            },
+            "peek": {
+              "reports": 0.83,
+              "threshold_median": 0.83,
+              "risk_mean": 0.05086190523572305,
+              "over_target": 0.13,
+              "auto_share": 0.5377313432835822
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.82,
+              "threshold_median": 0.835,
+              "risk_mean": 0.04920022094832925,
+              "over_target": 0.1,
+              "auto_share": 0.5300087064676616
+            },
+            "peek": {
+              "reports": 0.92,
+              "threshold_median": 0.785,
+              "risk_mean": 0.06349083066181165,
+              "over_target": 0.17,
+              "auto_share": 0.6273830845771144
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.85,
+              "threshold_median": 0.82,
+              "risk_mean": 0.05321306373816886,
+              "over_target": 0.07,
+              "auto_share": 0.5852350746268656
+            },
+            "peek": {
+              "reports": 0.96,
+              "threshold_median": 0.76,
+              "risk_mean": 0.07211839125702965,
+              "over_target": 0.2,
+              "auto_share": 0.6874788557213931
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.87,
+              "threshold_median": 0.8,
+              "risk_mean": 0.0598525248265186,
+              "over_target": 0.08,
+              "auto_share": 0.622016169154229
+            },
+            "peek": {
+              "reports": 0.98,
+              "threshold_median": 0.75,
+              "risk_mean": 0.07754817998886271,
+              "over_target": 0.24,
+              "auto_share": 0.7109054726368158
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.96,
+              "threshold_median": 0.785,
+              "risk_mean": 0.06872420063059612,
+              "over_target": 0.03,
+              "auto_share": 0.6947624378109453
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.0838023166203632,
+              "over_target": 0.25,
+              "auto_share": 0.7372288557213931
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.27,
+              "threshold_median": 0.89,
+              "risk_mean": 0.011160758102124739,
+              "over_target": 0.0,
+              "auto_share": 0.17694402985074625
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.76,
+              "risk_mean": 0.07660145908795471,
+              "over_target": 0.02,
+              "auto_share": 0.7331480099502489
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.0889806411625471,
+              "over_target": 0.27,
+              "auto_share": 0.748379353233831
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.81,
+              "risk_mean": 0.06405387684474104,
+              "over_target": 0.0,
+              "auto_share": 0.7147587064676619
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.72,
+              "risk_mean": 0.08168434546707946,
+              "over_target": 0.01,
+              "auto_share": 0.7411604477611939
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.685,
+              "risk_mean": 0.09231794079241251,
+              "over_target": 0.27,
+              "auto_share": 0.7534763681592039
+            }
+          }
+        ],
+        "seq_first_unlock_median": 449.0,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.27
+      },
+      {
+        "alpha": 0.1,
+        "n_photos": 2733,
+        "cap": 10.0,
+        "rows": [
+          {
+            "n": 10,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.86,
+              "threshold_median": 0.87,
+              "risk_mean": 0.047493287277234335,
+              "over_target": 0.17,
+              "auto_share": 0.5497620538509707
+            },
+            "peek": {
+              "reports": 0.86,
+              "threshold_median": 0.87,
+              "risk_mean": 0.047493287277234335,
+              "over_target": 0.17,
+              "auto_share": 0.5497620538509707
+            }
+          },
+          {
+            "n": 25,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.82,
+              "threshold_median": 0.855,
+              "risk_mean": 0.04553116518764527,
+              "over_target": 0.08,
+              "auto_share": 0.5497207263619287
+            },
+            "peek": {
+              "reports": 0.91,
+              "threshold_median": 0.81,
+              "risk_mean": 0.059086789490263206,
+              "over_target": 0.2,
+              "auto_share": 0.6385810895428929
+            }
+          },
+          {
+            "n": 50,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.87,
+              "threshold_median": 0.83,
+              "risk_mean": 0.05235051707363283,
+              "over_target": 0.05,
+              "auto_share": 0.6142154038822792
+            },
+            "peek": {
+              "reports": 0.94,
+              "threshold_median": 0.71,
+              "risk_mean": 0.0685702659198502,
+              "over_target": 0.22,
+              "auto_share": 0.6882667501565435
+            }
+          },
+          {
+            "n": 100,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.94,
+              "threshold_median": 0.79,
+              "risk_mean": 0.06142068122297245,
+              "over_target": 0.04,
+              "auto_share": 0.6801077019411396
+            },
+            "peek": {
+              "reports": 0.99,
+              "threshold_median": 0.7,
+              "risk_mean": 0.07635198198481898,
+              "over_target": 0.24,
+              "auto_share": 0.7350544771446461
+            }
+          },
+          {
+            "n": 200,
+            "seq": {
+              "reports": 0.0,
+              "threshold_median": null,
+              "risk_mean": 0.0,
+              "over_target": 0.0,
+              "auto_share": 0.0
+            },
+            "once": {
+              "reports": 0.98,
+              "threshold_median": 0.78,
+              "risk_mean": 0.06656250257194492,
+              "over_target": 0.04,
+              "auto_share": 0.7151546649968692
+            },
+            "peek": {
+              "reports": 0.99,
+              "threshold_median": 0.68,
+              "risk_mean": 0.08149282693597101,
+              "over_target": 0.26,
+              "auto_share": 0.7462266750156543
+            }
+          },
+          {
+            "n": 400,
+            "seq": {
+              "reports": 0.34,
+              "threshold_median": 0.875,
+              "risk_mean": 0.014582474913682218,
+              "over_target": 0.0,
+              "auto_share": 0.23478897933625548
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.71,
+              "risk_mean": 0.0752029440271394,
+              "over_target": 0.02,
+              "auto_share": 0.750447088290545
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.66,
+              "risk_mean": 0.08658122821955981,
+              "over_target": 0.27,
+              "auto_share": 0.7624257983719473
+            }
+          },
+          {
+            "n": 800,
+            "seq": {
+              "reports": 1.0,
+              "threshold_median": 0.805,
+              "risk_mean": 0.06356446603652892,
+              "over_target": 0.0,
+              "auto_share": 0.7359248591108327
+            },
+            "once": {
+              "reports": 1.0,
+              "threshold_median": 0.7,
+              "risk_mean": 0.08111100022905982,
+              "over_target": 0.01,
+              "auto_share": 0.7579486537257358
+            },
+            "peek": {
+              "reports": 1.0,
+              "threshold_median": 0.64,
+              "risk_mean": 0.08993547238122374,
+              "over_target": 0.28,
+              "auto_share": 0.766498434564809
+            }
+          }
+        ],
+        "seq_first_unlock_median": 431.5,
+        "seq_ever_over_target": 0.0,
+        "peek_ever_over_target": 0.28
+      }
+    ]
+  }
+}

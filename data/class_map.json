@@ -1,0 +1,157 @@
+{
+  "unified_classes": [
+    "helmet",
+    "head",
+    "vest",
+    "person"
+  ],
+  "note": "The source photos are the 700 photos of the Construction Site Safety export v30 listed in folds.json; they use the class mapping of registry entry css_v27 in routing/datasets.py. Classes a dataset does not label are never scored on it (evaluable classes). Licences as read on the dataset pages are in LICENSE-DATA.md.",
+  "datasets": {
+    "css_v30": {
+      "registry_entry": "css_v27",
+      "role": "source",
+      "title": "Construction Site Safety v27, Roboflow Universe Projects",
+      "license_registry": "CC BY 4.0 (CONFIRM on the dataset page; image provenance not stated)",
+      "format": "coco",
+      "mapping_to_unified": {
+        "Hardhat": "helmet",
+        "NO-Hardhat": "head",
+        "Safety Vest": "vest",
+        "Person": "person"
+      },
+      "evaluable_classes": [
+        "helmet",
+        "head",
+        "vest",
+        "person"
+      ],
+      "evaluable_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "download": "Roboflow export, API key entered by the owner (same as training)."
+    },
+    "chv": {
+      "registry_entry": "chv",
+      "role": "target",
+      "title": "Color Helmet and Vest (CHV), Wang et al. 2021, Sensors",
+      "license_registry": "No formal license; README grants free use with citation",
+      "format": "yolo",
+      "source_label_names": [
+        "person",
+        "vest",
+        "blue helmet",
+        "red helmet",
+        "white helmet",
+        "yellow helmet"
+      ],
+      "mapping_to_unified": {
+        "person": "person",
+        "vest": "vest",
+        "blue helmet": "helmet",
+        "red helmet": "helmet",
+        "white helmet": "helmet",
+        "yellow helmet": "helmet"
+      },
+      "evaluable_classes": [
+        "helmet",
+        "vest",
+        "person"
+      ],
+      "evaluable_ids": [
+        0,
+        2,
+        3
+      ],
+      "download": "Google Drive link in github.com/ZijianWang-ZW/PPE_detection"
+    },
+    "hard_hat_workers": {
+      "registry_entry": "hard_hat_workers",
+      "role": "target",
+      "title": "Hard Hat Workers, Northeastern University China",
+      "license_registry": "CC0 1.0 public domain",
+      "format": "voc",
+      "mapping_to_unified": {
+        "helmet": "helmet",
+        "head": "head",
+        "person": "person"
+      },
+      "evaluable_classes": [
+        "helmet",
+        "head"
+      ],
+      "evaluable_ids": [
+        0,
+        1
+      ],
+      "download": "Harvard Dataverse doi:10.7910/DVN/7CBGOS or public.roboflow.com/object-detection/hard-hat-workers"
+    },
+    "shwd": {
+      "registry_entry": "shwd",
+      "role": "target",
+      "title": "Safety Helmet Wearing Dataset (SHWD)",
+      "license_registry": "MIT (repository level)",
+      "format": "voc",
+      "mapping_to_unified": {
+        "hat": "helmet",
+        "person": "head"
+      },
+      "evaluable_classes": [
+        "helmet",
+        "head"
+      ],
+      "evaluable_ids": [
+        0,
+        1
+      ],
+      "download": "Google Drive link in github.com/njvisionpower/Safety-Helmet-Wearing-Dataset"
+    },
+    "sh17": {
+      "registry_entry": "sh17",
+      "role": "target",
+      "title": "SH17, Ahmad and Rahimi 2024, Journal of Safety Science and Resilience",
+      "license_registry": "CC BY-NC-SA 4.0 (evaluation only; never used for training the public model)",
+      "format": "yolo",
+      "source_label_names": [
+        "person",
+        "ear",
+        "ear-mufs",
+        "face",
+        "face-guard",
+        "face-mask",
+        "foot",
+        "tool",
+        "glasses",
+        "gloves",
+        "helmet",
+        "hands",
+        "head",
+        "medical-suit",
+        "shoes",
+        "safety-suit",
+        "safety-vest"
+      ],
+      "mapping_to_unified": {
+        "person": "person",
+        "safety-vest": "vest",
+        "helmet": "helmet",
+        "head": "head"
+      },
+      "evaluable_classes": [
+        "helmet",
+        "head",
+        "vest",
+        "person"
+      ],
+      "evaluable_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "download": "Kaggle mugheesahmad/sh17-dataset-for-ppe-detection (images and labels), or the Pexels URL list in the repository"
+    }
+  }
+}

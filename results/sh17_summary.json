@@ -1,0 +1,44 @@
+{
+  "package": "dell_results_sh17.zip",
+  "n_photos": 8099,
+  "unreadable": 0,
+  "hash": "difference hash from a full decode (first kit version)",
+  "labels_raw": {
+    "person": 13802,
+    "helmet": 927,
+    "head": 11985,
+    "safety-vest": 530
+  },
+  "helmet_over_head_area_median": 0.7333272760356317,
+  "helmet_head_pairs": 762,
+  "longest_side_px": {
+    "max": 8192,
+    "median": 5940
+  },
+  "persons_per_photo": {
+    "0": 482,
+    "1": 4825,
+    "2 to 3": 2105,
+    "4 or more": 687
+  },
+  "cleaning": {
+    "sh17_dropped_vs_source": 0,
+    "sh17_dropped_vs_chv": 3,
+    "sh17_dropped_vs_hard_hat_workers": 0,
+    "sh17_dropped_vs_shwd": 4,
+    "sh17_kept": 8092
+  },
+  "cleaned_labels": {
+    "helmet": 914,
+    "head": 11230,
+    "vest": 521,
+    "person": 13785
+  },
+  "cleaned_photos": 8092,
+  "chv_persons_per_photo": {
+    "0": 7,
+    "1": 453,
+    "2 to 3": 507,
+    "4 or more": 344
+  }
+}
