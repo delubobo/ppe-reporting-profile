@@ -10,6 +10,7 @@ version: 1.0.0
 date-released: 2026-11-10
 license: MIT
 repository-code: https://github.com/delubobo/ppe-reporting-profile
+doi: 10.5281/zenodo.24100886
 preferred-citation:
   type: article
   title: "What Does a Single Error Rate Hide? Missed Violations and Human Review Workload in AI-Based PPE Monitoring on Construction Sites"

@@ -74,7 +74,7 @@ The CHV, SHWD and SH17 rows of the same table need detections that are not relea
 
 ## Citation
 
-Please cite the paper and this package; `CITATION.cff` gives both references.
+Please cite the paper and this package; `CITATION.cff` gives both references. Version 1.0.0 of this package is archived on Zenodo at https://doi.org/10.5281/zenodo.24100886.
 
 ## Licences
 
