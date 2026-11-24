@@ -2,7 +2,7 @@
 
 ## What this is
 
-This package accompanies the paper "Evaluating Automated Personal Protective Equipment Monitoring in Construction Beyond Aggregate Error: False Alerts, Missed Violations, and Review Demand" by Roy Uzoma Lan (Western Kentucky University), submitted to *Automation in Construction*. It holds the evaluation code, class mappings, fold assignments, duplicate-exclusion lists, matching settings, saved summary results, and detections for the two datasets whose licenses allow redistribution of derived files (Construction Site Safety and Hard Hat Workers). The paper's contribution is a 13-field operational reporting profile that reports alert reliability, missed violations, and human review demand jointly when a PPE monitor is commissioned, with a three-band policy that reports, refers, or suppresses each detection.
+This package accompanies the paper "Evaluating Automated Personal Protective Equipment Monitoring in Construction Beyond Aggregate Error: False Alerts, Missed Violations, and Review Demand" by Roy Uzoma Lan (Western Kentucky University), submitted for publication. It holds the evaluation code, class mappings, fold assignments, duplicate-exclusion lists, matching settings, saved summary results, and detections for the two datasets whose licenses allow redistribution of derived files (Construction Site Safety and Hard Hat Workers). The paper's contribution is a 13-field operational reporting profile that reports alert reliability, missed violations, and human review demand jointly when a PPE monitor is commissioned, with a three-band policy that reports, refers, or suppresses each detection.
 
 ## Contents
 
