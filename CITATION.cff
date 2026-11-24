@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this package, cite the paper and this record."
-title: "ppe-reporting-profile: evaluation code, lists, settings and saved results for missed violations and human review workload in AI-based PPE monitoring"
+title: "ppe-reporting-profile: evaluation code, lists, settings, and saved results for evaluating automated PPE monitoring beyond aggregate error"
 authors:
   - family-names: Lan
     given-names: Roy Uzoma
@@ -13,9 +13,9 @@ repository-code: https://github.com/delubobo/ppe-reporting-profile
 doi: 10.5281/zenodo.24100886
 preferred-citation:
   type: article
-  title: "What Does a Single Error Rate Hide? Missed Violations and Human Review Workload in AI-Based PPE Monitoring on Construction Sites"
+  title: "Evaluating Automated Personal Protective Equipment Monitoring in Construction Beyond Aggregate Error: False Alerts, Missed Violations, and Review Demand"
   authors:
     - family-names: Lan
       given-names: Roy Uzoma
   year: 2026
-  notes: submitted for publication; the journal reference will be added on acceptance
+  notes: submitted to Automation in Construction; the journal reference will be added on acceptance
